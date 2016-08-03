@@ -1,0 +1,742 @@
+﻿cn_name:宝石甲虫,cost:2,attack:1,rare:普通,hp:1,en_name:Jeweled Scarab,description:战吼：发现一张法力值消耗为（3）的卡牌。,job:中立,type:随从,ablity:2
+cn_name:巨型蟾蜍,cost:2,attack:3,rare:普通,hp:2,en_name:Huge Toad,description:亡语：对一个随机敌人造成1点伤害。,job:中立,type:随从,ablity:1
+cn_name:鱼人宝宝,cost:0,attack:1,rare:普通,hp:1,en_name:Murloc Tinyfin,description:,job:中立,type:随从,ablity:0
+cn_name:墓穴蜘蛛,cost:4,attack:3,rare:普通,hp:3,en_name:Tomb Spider,description:战吼：发现一张野兽牌。,job:中立,type:随从,ablity:2
+cn_name:A-3型机械金刚,cost:4,attack:3,rare:普通,hp:4,en_name:Gorillabot A-3,description:战吼：如果你控制任何机械，则发现一张机械牌,job:中立,type:随从,ablity:2
+cn_name:阿努比萨斯哨兵,cost:5,attack:4,rare:普通,hp:4,en_name:Anubisath Sentinel,description:亡语：使一个随机友方随从获得+3/+3。,job:中立,type:随从,ablity:1
+cn_name:摇摆的俾米格,cost:6,attack:2,rare:稀有,hp:6,en_name:Wobbling Runts,description:亡语：召唤3个2/2的俾格米。,job:中立,type:随从,ablity:2
+cn_name:石化魔暴龙,cost:8,attack:8,rare:普通,hp:8,en_name:Fossilized Devilsaur,description:战吼：如果你控制任何野兽，便获得嘲讽。,job:中立,type:随从,ablity:1
+cn_name:远古暗影,cost:4,attack:7,rare:稀有,hp:4,en_name:Ancient Shade,description:战吼：将一张\远古诅咒\牌洗入你的牌库。当你抽到该牌时，便会受到7点伤害。,job:中立,type:随从,ablity:1
+cn_name:诡异的雕像,cost:4,attack:7,rare:稀有,hp:7,en_name:Eerie Statue,description:无法攻击，除非它是战场上的唯一一个随从。,job:中立,type:随从,ablity:0
+cn_name:集合石,cost:5,attack:0,rare:稀有,hp:6,en_name:Summoning Stone,description:每当你释放一个法术，召唤一个法力值消耗相同的随机随从。,job:中立,type:随从,ablity:0
+cn_name:娜迦海巫,cost:5,attack:5,rare:史诗,hp:5,en_name:Naga Sea Witch,description:你的卡牌法力值消耗为（5）点。,job:中立,type:随从,ablity:0
+cn_name:西风灯神,cost:5,attack:4,rare:史诗,hp:6,en_name:Djinni of Zephyrs,description:当你对一个其他友方随从释放法术时，将法术效果复制在此随从身上。,job:中立,type:随从,ablity:0
+cn_name:布莱恩铜须,cost:3,attack:2,rare:传说,hp:4,en_name:Brann Bronzebeard,description:你的战吼会触发两次。,job:中立,type:随从,ablity:0
+cn_name:芬利莫格顿爵士,cost:1,attack:1,rare:传说,hp:3,en_name:Sir Finley Mrrgglton,description:战吼：发现一个新的基础英雄技能。,job:中立,type:随从,ablity:2
+cn_name:伊莉斯逐星,cost:4,attack:3,rare:传说,hp:5,en_name:Elise Starseeker,description:战吼：将\黄金猿藏宝图\洗入你的牌库。,job:中立,type:随从,ablity:1
+cn_name:虚灵大盗拉法姆,cost:9,attack:7,rare:传说,hp:8,en_name:Arch-Thief Rafaam,description:战吼：发现一张强大的神器牌。,job:中立,type:随从,ablity:2
+cn_name:雷诺杰克逊,cost:6,attack:4,rare:传说,hp:6,en_name:Reno Jackson,description:战吼：如果你的牌库里没有相同的牌，则为你的英雄恢复所有生命值。,job:中立,type:随从,ablity:1
+cn_name:凶暴猿猴,cost:3,attack:3,rare:普通,hp:4,en_name:Fierce Monkey,description:嘲讽,job:战士,type:随从,ablity:1
+cn_name:黑曜石毁灭者,cost:7,attack:7,rare:普通,hp:7,en_name:Obsidian Destroyer,description:在你的回合结束时，召唤一个1/1并具有嘲讽的圣甲虫。,job:战士,type:随从,ablity:0
+cn_name:诅咒之刃,cost:1,attack:2,rare:普通,hp:3,en_name:Cursed Blade,description:所有攻击会对你的英雄造成双倍伤害。,job:战士,type:武器,ablity:0
+cn_name:黑市摊贩,cost:2,attack:2,rare:普通,hp:2,en_name:Dark Peddler,description:战吼：发现一张法力值消耗为\1\的卡牌。,job:术士,type:随从,ablity:2
+cn_name:拉法姆的诅咒,cost:2,attack:0,rare:普通,hp:0,en_name:Curse of Rafaam,description:使你的对手获得一张\诅咒!\牌。在对手的回合开始时，如果他在对手的手牌中，则造成两点伤害。,job:术士,type:法术,ablity:0
+cn_name:遗物搜寻者,cost:1,attack:1,rare:普通,hp:1,en_name:Reliquary Seeker,description:战吼：如果你控制至少6个随从，便获得+4/+4。,job:术士,type:随从,ablity:1
+cn_name:坑道穴居人,cost:1,attack:1,rare:普通,hp:3,en_name:Tunnel Trogg,description:当你过载时，每一个被锁的法力水晶会使其获得+1攻击力。,job:萨满,type:随从,ablity:0
+cn_name:顽石元素,cost:4,attack:2,rare:普通,hp:6,en_name:Rumbling Elemental,description:当你召唤一个具有战吼的随从时，对一个随机敌人造成2点伤害。,job:萨满,type:随从,ablity:0
+cn_name:鱼人恩典,cost:7,attack:0,rare:稀有,hp:0,en_name:Everyfin is Awesome,description:使你的随从获得+2/+2。你每控制一个鱼人，该牌的法力值消耗便减少（1）点。,job:萨满,type:法术,ablity:0
+cn_name:深渊巨蟒,cost:1,attack:2,rare:普通,hp:1,en_name:Pit Snake,description:消灭任何受到该随从伤害的随从。,job:盗贼,type:随从,ablity:0
+cn_name:石化迅猛龙,cost:3,attack:3,rare:稀有,hp:4,en_name:Unearthed Raptor,description:战吼：选择一个友方随从，将其亡语效果复制到自己身上。,job:盗贼,type:随从,ablity:1
+cn_name:盗墓匪贼,cost:4,attack:5,rare:普通,hp:4,en_name:Tomb Pillager,description:亡语：将一个幸运币置入你的手牌。,job:盗贼,type:随从,ablity:1
+cn_name:博物馆馆长,cost:2,attack:1,rare:普通,hp:2,en_name:Museum Curator,description:战吼：发现一张亡语牌。,job:牧师,type:随从,ablity:2
+cn_name:极恶之咒,cost:5,attack:0,rare:稀有,hp:0,en_name:Excavated Evil,description:对所有随从造成3点伤害。将该牌洗入你对手的牌库。,job:牧师,type:法术,ablity:0
+cn_name:埋葬,cost:6,attack:0,rare:普通,hp:0,en_name:Entomb,description:选择一个敌方随从。将该随从洗入你的牌库。,job:牧师,type:法术,ablity:
+cn_name:审判,cost:1,attack:0,rare:普通,hp:0,en_name:Sacred Trial,description:奥秘：当你的对手打出一张随从牌时，如果他控制至少三个随从，则将其消灭。,job:圣骑士,type:法术,ablity:1
+cn_name:奥曼达守护者,cost:4,attack:3,rare:普通,hp:4,en_name:Keeper of Uldaman,description:战吼：使一个随从的攻击力和生命值成为3。,job:圣骑士,type:随从,ablity:1
+cn_name:王者归来,cost:10,attack:0,rare:稀有,hp:0,en_name:Anyfin Can Happen,description:召唤七个在本局对战中死亡的鱼人。,job:圣骑士,type:法术,ablity:1
+cn_name:老旧的火把,cost:3,attack:0,rare:普通,hp:0,en_name:Forgotten Torch,description:造成3点伤害。将一张可造成6点伤害的\炽热的火把\洗入你的牌库。,job:法师,type:法术,ablity:0
+cn_name:复活的铠甲,cost:4,attack:4,rare:稀有,hp:4,en_name:Animated Armor,description:你的英雄每次只会受到1点伤害。,job:法师,type:随从,ablity:0
+cn_name:虚灵巫师,cost:5,attack:6,rare:普通,hp:3,en_name:Ethereal Conjurer,description:战吼：发现一张法术牌。,job:法师,type:随从,ablity:2
+cn_name:毒镖陷阱,cost:2,attack:0,rare:普通,hp:0,en_name:Dart Trap,description:奥秘：当对方使用英雄技能时，对一个随机敌人造成5点伤害。,job:猎人,type:法术,ablity:1
+cn_name:探险帽,cost:2,attack:0,rare:稀有,hp:0,en_name:Explorer's Hat,description:使一个随从获得+1/+1，以及亡语：将一个探险帽置入你的手牌。,job:猎人,type:法术,ablity:0
+cn_name:大漠沙驼,cost:3,attack:2,rare:普通,hp:4,en_name:Desert Camel,description:战吼：从双方的牌库中各将一个法力值消耗为（1）点的随从置入战场。,job:猎人,type:随从,ablity:1
+cn_name:乌鸦神像,cost:1,attack:0,rare:普通,hp:0,en_name:Raven Idol,description:抉择：发现一张随从牌；或者发现一张法术牌。,job:德鲁伊,type:法术,ablity:2
+cn_name:骑乘迅猛龙,cost:3,attack:3,rare:普通,hp:2,en_name:Mounted Raptor,description:亡语：随机召唤一个法力值消耗为（1）的随从。,job:德鲁伊,type:随从,ablity:2
+cn_name:丛林枭兽,cost:4,attack:4,rare:稀有,hp:4,en_name:Jungle Moonkin,description:每个玩家获得法术伤害+2。,job:德鲁伊,type:随从,ablity:
+cn_name:活体根须,cost:1,attack:0,rare:普通,hp:0,en_name:Living Roots,description:抉择：造成2点伤害或者召唤两个1/1随从。,job:德鲁伊,type:法术,ablity:1
+cn_name:刃牙德鲁伊,cost:2,attack:2,rare:普通,hp:1,en_name:Druid of the Saber,description:抉择：获得冲锋或者此卡获得+1+1且潜行。,job:德鲁伊,type:随从,ablity:1
+cn_name:狂野行者,cost:4,attack:4,rare:普通,hp:4,en_name:Wildwalker,description:战吼：给一个友方野兽+3生命值,job:德鲁伊,type:随从,ablity:1
+cn_name:达纳苏斯豹骑士,cost:2,attack:2,rare:稀有,hp:3,en_name:Darnassus Aspirant,description:战吼：获得一颗空的法力水晶，亡语：失去一颗法力水晶。,job:德鲁伊,type:随从,ablity:2
+cn_name:狂野争斗者,cost:4,attack:5,rare:稀有,hp:4,en_name:Savage Combatant,description:激励：使你的英雄获得+2攻击力。,job:德鲁伊,type:随从,ablity:1
+cn_name:狼骑兵,cost:3,attack:3,rare:免费,hp:1,en_name:Wolfrider,description:冲锋,job:中立,type:随从,ablity:1
+cn_name:巫医,cost:1,attack:2,rare:免费,hp:1,en_name:Voodoo Doctor,description:战吼：恢复2点生命值。,job:中立,type:随从,ablity:1
+cn_name:石牙野猪,cost:1,attack:1,rare:免费,hp:1,en_name:Stonetusk Boar,description:冲锋,job:中立,type:随从,ablity:1
+cn_name:森金持盾卫士,cost:4,attack:3,rare:免费,hp:5,en_name:Sen'jin Shieldmasta,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:淡水鳄,cost:2,attack:2,rare:免费,hp:3,en_name:River Crocolisk ,description:,job:中立,type:随从,ablity:
+cn_name:鲁莽火箭兵,cost:6,attack:5,rare:免费,hp:2,en_name:Reckless Rocketeer,description:冲锋,job:中立,type:随从,ablity:1
+cn_name:团队领袖,cost:3,attack:2,rare:免费,hp:2,en_name:Raid Leader,description:你的其他随从获得+1攻击。,job:中立,type:随从,ablity:
+cn_name:绿洲钳嘴龟,cost:4,attack:2,rare:免费,hp:7,en_name:Oasis Snapjaw,description:,job:中立,type:随从,ablity:
+cn_name:工程师学徒 ,cost:2,attack:1,rare:免费,hp:1,en_name:Novice Engineer,description:战吼：抽一张牌。,job:中立,type:随从,ablity:1
+cn_name:夜刃刺客,cost:5,attack:4,rare:免费,hp:4,en_name:Nightblade,description:战吼：对敌方英雄造成3点伤害。,job:中立,type:随从,ablity:1
+cn_name:鱼人袭击者,cost:1,attack:2,rare:免费,hp:1,en_name:Murloc Raider,description:,job:中立,type:随从,ablity:
+cn_name:岩浆暴怒者,cost:3,attack:5,rare:免费,hp:1,en_name:Magma Rager,description:,job:中立,type:随从,ablity:
+cn_name:石拳食人魔,cost:6,attack:6,rare:免费,hp:7,en_name:Boulderfist Ogre,description:,job:中立,type:随从,ablity:
+cn_name:血沼迅猛龙,cost:2,attack:3,rare:免费,hp:2,en_name:Bloodfen Raptor,description:,job:中立,type:随从,ablity:
+cn_name:作战傀儡,cost:7,attack:7,rare:免费,hp:7,en_name:War Golem,description:,job:中立,type:随从,ablity:
+cn_name:暴风城骑士,cost:4,attack:2,rare:免费,hp:5,en_name:Stormwind Knight,description:冲锋,job:中立,type:随从,ablity:1
+cn_name:暴风城勇士,cost:7,attack:6,rare:免费,hp:6,en_name:Stormwind Champion,description:你的其他随从获得+1/+1。,job:中立,type:随从,ablity:
+cn_name:雷矛特种兵,cost:5,attack:4,rare:免费,hp:2,en_name:Stormpike Commando,description:战吼：造成2点伤害。,job:中立,type:随从,ablity:1
+cn_name:破法者,cost:4,attack:4,rare:免费,hp:3,en_name:Spellbreaker,description:战吼：沉默一个随从。,job:中立,type:随从,ablity:2
+cn_name:银背族长,cost:3,attack:1,rare:免费,hp:4,en_name:Silverback Patriarch,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:破碎残阳祭司,cost:3,attack:3,rare:免费,hp:2,en_name:Shattered Sun Cleric,description:战吼：使一个友方随从获得+1/+1。,job:中立,type:随从,ablity:1
+cn_name:剃刀猎手,cost:3,attack:2,rare:免费,hp:3,en_name:Razorfen Hunter,description:战吼：召唤一个1/1的野猪。,job:中立,type:随从,ablity:2
+cn_name:食人魔法师,cost:4,attack:4,rare:免费,hp:4,en_name:Ogre Magi,description:法术伤害+1,job:中立,type:随从,ablity:1
+cn_name:鱼人猎潮者 ,cost:2,attack:2,rare:免费,hp:1,en_name:Murloc Tidehunter,description:战吼：召唤一个1/1的鱼人斥候。,job:中立,type:随从,ablity:2
+cn_name:竞技场主宰,cost:6,attack:6,rare:免费,hp:5,en_name:Lord of the Arena,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:狗头人地卜师,cost:2,attack:2,rare:免费,hp:2,en_name:Kobold Geomancer,description:法术伤害+1,job:中立,type:随从,ablity:1
+cn_name:铁鬃灰熊,cost:3,attack:3,rare:免费,hp:3,en_name:Ironfur Grizzly,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:铁炉堡火枪手,cost:3,attack:2,rare:免费,hp:2,en_name:Ironforge Rifleman,description:战吼：造成1点伤害。,job:中立,type:随从,ablity:1
+cn_name:古拉巴什狂暴者,cost:5,attack:2,rare:免费,hp:7,en_name:Gurubashi Berserker,description:每当该随从受到伤害时，获得+3攻击力。,job:中立,type:随从,ablity:
+cn_name:暗鳞先知,cost:1,attack:1,rare:免费,hp:1,en_name:Grimscale Oracle,description:所有其他鱼人获得+1攻击力。,job:中立,type:随从,ablity:
+cn_name:闪金镇步兵,cost:1,attack:1,rare:免费,hp:2,en_name:Goldshire Footman,description:嘲讽。,job:中立,type:随从,ablity:1
+cn_name:侏儒发明家,cost:4,attack:2,rare:免费,hp:4,en_name:Gnomish Inventor,description:战吼：抽一张牌。,job:中立,type:随从,ablity:2
+cn_name:霜狼督军,cost:5,attack:4,rare:免费,hp:4,en_name:Frostwolf Warlord,description:战吼：战场上每有1个其他友方随从，便获得+1/+1。,job:中立,type:随从,ablity:1
+cn_name:霜狼步兵,cost:2,attack:2,rare:免费,hp:2,en_name:Frostwolf Grunt,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:精灵弓箭手,cost:1,attack:1,rare:免费,hp:1,en_name:Elven Archer,description:战吼：造成1点伤害。,job:中立,type:随从,ablity:1
+cn_name:机械幼龙技工,cost:4,attack:2,rare:免费,hp:4,en_name:Dragonling Mechanic,description:战吼：召唤一个2/1的机械幼龙。,job:中立,type:随从,ablity:2
+cn_name:暗鳞治愈者,cost:5,attack:4,rare:免费,hp:5,en_name:Darkscale Healer,description:战吼：为所有友方角色恢复2点生命值。,job:中立,type:随从,ablity:1
+cn_name:达拉然法师,cost:3,attack:1,rare:免费,hp:4,en_name:Dalaran Mage,description:法术伤害+1,job:中立,type:随从,ablity:1
+cn_name:熔火恶犬,cost:7,attack:9,rare:免费,hp:5,en_name:Core Hound,description:,job:中立,type:随从,ablity:
+cn_name:冰风雪人,cost:4,attack:4,rare:免费,hp:5,en_name:Chillwind Yeti,description:,job:中立,type:随从,ablity:
+cn_name:藏宝海湾保镖,cost:5,attack:5,rare:免费,hp:4,en_name:Booty Bay Bodyguard,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:蓝腮战士,cost:2,attack:2,rare:免费,hp:1,en_name:Bluegill Warrior,description:冲锋,job:中立,type:随从,ablity:1
+cn_name:大法师,cost:6,attack:4,rare:免费,hp:7,en_name:Archmage,description:法术伤害+1,job:中立,type:随从,ablity:1
+cn_name:酸性沼泽软泥怪 ,cost:2,attack:3,rare:免费,hp:2,en_name:Acidic Swamp Ooze,description:战吼：摧毁你的对手的武器。,job:中立,type:随从,ablity:1
+cn_name:战歌指挥官,cost:3,attack:2,rare:免费,hp:3,en_name:Warsong Commander,description:你的冲锋随从获得攻击力+1。,job:战士,type:随从,ablity:
+cn_name:英勇打击,cost:2,attack:0,rare:免费,hp:0,en_name:Heroic Strike,description:在本回合中，使你的英雄获得+4攻击力。,job:战士,type:法术,ablity:
+cn_name:炽炎战斧,cost:2,attack:3,rare:免费,hp:2,en_name:Fiery War Axe,description:,job:战士,type:装备,ablity:
+cn_name:斩杀,cost:1,attack:0,rare:免费,hp:0,en_name:Execute,description:消灭一个受过伤害的敌方随从。,job:战士,type:法术,ablity:
+cn_name:冲锋,cost:3,attack:0,rare:免费,hp:0,en_name:Charge,description:使一个友方随从获得 +2 攻击力和冲锋。,job:战士,type:法术,ablity:
+cn_name:旋风斩,cost:1,attack:0,rare:免费,hp:0,en_name:Whirlwind,description:对所有随从造成1点伤害。,job:战士,type:法术,ablity:
+cn_name:战马训练师,cost:3,attack:2,rare:普通,hp:4,en_name:Warhorse Trainer,description:给你的白银之手新兵增加1点攻击力。,job:圣骑士,type:随从,ablity:
+cn_name:英勇圣印,cost:3,attack:0,rare:普通,hp:0,en_name:Seal of Champions,description:给一个随从+3攻击力与圣盾。,job:圣骑士,type:法术,ablity:1
+cn_name:鱼人骑士,cost:4,attack:3,rare:普通,hp:4,en_name:Murloc Knight,description:激励：随机召唤一个鱼人。,job:圣骑士,type:随从,ablity:2
+cn_name:先祖知识,cost:2,attack:0,rare:普通,hp:0,en_name:Ancestral Knowledge,description:抽两张牌，过载2。,job:萨满,type:法术,ablity:2
+cn_name:海象人图腾师,cost:3,attack:3,rare:普通,hp:2,en_name:Tuskarr Totemic,description:战吼：随机召唤一个图腾。,job:萨满,type:随从,ablity:2
+cn_name:图腾魔像,cost:2,attack:3,rare:普通,hp:4,en_name:Totem Golem,description:过载1。,job:萨满,type:随从,ablity:1
+cn_name:捕熊陷阱,cost:2,attack:0,rare:普通,hp:0,en_name:Bear Trap,description:奥秘：当你的英雄被攻击后，你召唤一个3/3的带嘲讽的熊。,job:猎人,type:法术,ablity:2
+cn_name:皇家雷象,cost:2,attack:3,rare:普通,hp:2,en_name:King's Elekk,description:战吼：显示出双方卡组中的一个随从。如果你的随从费用更高，则将它加入手牌。,job:猎人,type:随从,ablity:1
+cn_name:勇敢弓箭手,cost:1,attack:2,rare:普通,hp:1,en_name:Brave Archer,description:激励：如果你没有手牌，对敌方英雄造成2点伤害。,job:猎人,type:随从,ablity:1
+cn_name:怒袭,cost:3,attack:0,rare:普通,hp:0,en_name:Bash,description:造成3点伤害，增加3点护甲。,job:战士,type:法术,ablity:
+cn_name:加固,cost:2,attack:0,rare:普通,hp:0,en_name:Bolster,description:给你的所有嘲讽随从获得+2+2。,job:战士,type:法术,ablity:
+cn_name:奥格瑞玛狼骑士,cost:3,attack:3,rare:普通,hp:3,en_name:Orgrimmar Aspirant,description:激励：给你的武器加1攻击力。,job:战士,type:随从,ablity:1
+cn_name:锈水海盗,cost:1,attack:2,rare:普通,hp:1,en_name:Buccaneer,description:每当你装备武器时候，给你的武器增加1点攻击力。,job:盗贼,type:随从,ablity:
+cn_name:幽暗城勇士,cost:2,attack:3,rare:普通,hp:2,en_name:Undercity Valiant,description:连击：造成1点伤害。,job:盗贼,type:随从,ablity:1
+cn_name:影踪骁骑兵,cost:5,attack:3,rare:普通,hp:7,en_name:Shado-Pan Rider,description:连击：攻击力+3.,job:盗贼,type:随从,ablity:1
+cn_name:快速治疗,cost:1,attack:0,rare:普通,hp:0,en_name:Flash Heal,description:一个角色恢复5点生命值。,job:牧师,type:法术,ablity:
+cn_name:真言术：耀,cost:1,attack:0,rare:普通,hp:0,en_name:Power Word: Glory,description:选择一个随从，每当他进攻就能回复你的英雄4点血。,job:牧师,type:法术,ablity:
+cn_name:神圣勇士,cost:4,attack:3,rare:普通,hp:5,en_name:Sacred Warrior,description:每当一个角色获得回复，此卡攻击力加2。,job:牧师,type:随从,ablity:
+cn_name:恶魔融合,cost:2,attack:0,rare:普通,hp:0,en_name:Demonfuse,description:使一个随从获得+3+3.你的对手获得一个法力水晶。,job:术士,type:法术,ablity:
+cn_name:恐怖末日守卫,cost:7,attack:6,rare:普通,hp:8,en_name:Fearsome Doomguard,description:,job:术士,type:随从,ablity:
+cn_name:荒野骑士,cost:7,attack:6,rare:稀有,hp:6,en_name:Knight of the Wild,description:每当你召唤一个野兽，这张卡费用-1（抽到在手牌才开始算）。,job:德鲁伊,type:随从,ablity:
+cn_name:争强好胜,cost:1,attack:0,rare:稀有,hp:0,en_name:Competitive Spirit,description:奥秘-当你回合开始的时候，给你的所有随从+1+1。,job:圣骑士,type:法术,ablity:1
+cn_name:白银之枪,cost:2,attack:2,rare:稀有,hp:2,en_name:Argent Lance,description:战吼：显示出双方卡组中的一个随从，如果你的随从费用更高，则获得+1耐久。,job:圣骑士,type:装备,ablity:1
+cn_name:海象人龟骑士,cost:5,attack:5,rare:稀有,hp:5,en_name:Tuskarr Jouster,description:战吼：显示出双方卡组中的一个随从。如果你的随从费用更高，为你的英雄恢复7点生命值。,job:圣骑士,type:随从,ablity:1
+cn_name:治疗波,cost:3,attack:0,rare:稀有,hp:0,en_name:Healing Wave,description:回复7血，你和对手各从卡组揭示一张随从，如果你的随从费用较高，改为回复14血。,job:萨满,type:法术,ablity:
+cn_name:雷霆崖勇士,cost:5,attack:3,rare:稀有,hp:6,en_name:Thunder Bluff Valiant,description:激励：给你的图腾加2攻击力。,job:萨满,type:随从,ablity:1
+cn_name:德莱尼图腾师,cost:4,attack:4,rare:稀有,hp:4,en_name:Draenei Totemcarver,description:战吼：每有一个随从获得+1/+1。,job:萨满,type:随从,ablity:1
+cn_name:强风射击,cost:3,attack:0,rare:稀有,hp:0,en_name:Powershot,description:对一个随从以及两边的随从造成2点伤害。,job:猎人,type:法术,ablity:
+cn_name:暴躁的牧羊人,cost:5,attack:3,rare:稀有,hp:3,en_name:Ram Wrangler,description:战吼：如果你场上存在野兽，则召唤一个随机野兽上场。,job:猎人,type:随从,ablity:1
+cn_name:天降蛛群,cost:6,attack:0,rare:稀有,hp:0,en_name:Ball of Spiders,description:召唤三张1/1织网蛛。,job:猎人,type:法术,ablity:1
+cn_name:阿莱克丝塔萨勇士,cost:2,attack:2,rare:稀有,hp:3,en_name:Alexstrasza's Champion,description:战吼：如果你手中有龙族卡，+1攻击以及获得冲锋。,job:战士,type:随从,ablity:2
+cn_name:格斗陪练师,cost:2,attack:3,rare:稀有,hp:2,en_name:Sparring Partner,description:嘲讽，战吼：给一个随从嘲讽。,job:战士,type:随从,ablity:2
+cn_name:国王守卫者,cost:3,attack:3,rare:稀有,hp:2,en_name:King's Defender,description:战吼：每当你有一个嘲讽随从，此武器获得耐久+1。,job:战士,type:装备,ablity:1
+cn_name:窃贼,cost:2,attack:2,rare:稀有,hp:2,en_name:Cutpurse,description:每当你对敌方英雄造成伤害的时候，获得一个幸运币。,job:盗贼,type:随从,ablity:
+cn_name:剽窃,cost:3,attack:0,rare:稀有,hp:0,en_name:Burgle,description:随机将两张你对手的职业卡牌加入你的手牌。,job:盗贼,type:法术,ablity:
+cn_name:走私商贩,cost:3,attack:4,rare:稀有,hp:3,en_name:Shady Dealer,description:战吼：如果场上有海盗，则此卡获得+1/+1。,job:盗贼,type:随从,ablity:1
+cn_name:龙眠教官,cost:2,attack:1,rare:稀有,hp:4,en_name:Wyrmrest Agent,description:战吼：如果你手中有龙族卡，+1攻击以及获得嘲讽。,job:牧师,type:随从,ablity:1
+cn_name:暗影子嗣,cost:4,attack:5,rare:稀有,hp:4,en_name:Spawn of Shadows,description:激励：双方英雄受到4点伤害。,job:牧师,type:随从,ablity:1
+cn_name:策反,cost:2,attack:0,rare:稀有,hp:0,en_name:Convert,description:复制一个对方随从放入你手牌。,job:牧师,type:法术,ablity:
+cn_name:加拉克苏斯之拳,cost:4,attack:0,rare:稀有,hp:0,en_name:Fist of Jaraxxus,description:当你使用或者丢弃它的时候，对一个随机敌人角色造成4点伤害。,job:术士,type:法术,ablity:
+cn_name:小鬼骑士,cost:2,attack:3,rare:稀有,hp:2,en_name:Tiny Knight of Evil,description:每当你弃一张牌，便获得+1+1。,job:术士,type:随从,ablity:
+cn_name:虚空碾压者,cost:6,attack:5,rare:稀有,hp:4,en_name:Void Crusher,description:激励：随机消灭双方各一个随从。,job:术士,type:随从,ablity:1
+cn_name:变形术：野猪,cost:3,attack:0,rare:稀有,hp:0,en_name:Polymorph: Boar,description:把一个随从变成4/2并带有冲锋的野猪。,job:法师,type:法术,ablity:
+cn_name:轮回,cost:3,attack:0,rare:稀有,hp:0,en_name:Effigy,description:奥秘：当友方随从死亡的时候，召唤一个同样法力消耗的随从。,job:法师,type:法术,ablity:2
+cn_name:英雄之魂,cost:2,attack:3,rare:稀有,hp:2,en_name:Fallen Hero,description:你的英雄技能伤害加1。,job:法师,type:随从,ablity:
+cn_name:穆戈尔的勇士,cost:6,attack:8,rare:稀有,hp:5,en_name:Mogor's Champion,description:50%概率攻击到一个错误的目标。,job:中立,type:随从,ablity:
+cn_name:破坏者,cost:3,attack:4,rare:稀有,hp:3,en_name:Saboteur,description:战吼：你对手的英雄技能下回合增加5费。,job:中立,type:随从,ablity:1
+cn_name:击剑教头,cost:3,attack:2,rare:稀有,hp:2,en_name:Fencing Coach,description:战吼：下一次你使用英雄技能时候费用减少2。,job:中立,type:随从,ablity:1
+cn_name:受伤的克瓦迪尔,cost:1,attack:2,rare:稀有,hp:4,en_name:Injured Kvaldir,description:战吼：对这个随从造成3点伤害。,job:中立,type:随从,ablity:1
+cn_name:银色警卫,cost:2,attack:2,rare:稀有,hp:4,en_name:Argent Watchman,description:不能攻击，激励-本回合可以攻击。,job:中立,type:随从,ablity:1
+cn_name:圣光勇士,cost:3,attack:4,rare:稀有,hp:3,en_name:Light's Champion,description:战吼：沉默一个恶魔。,job:中立,type:随从,ablity:1
+cn_name:重甲战马,cost:4,attack:5,rare:稀有,hp:3,en_name:Armored Warhorse,description:战吼：显示出双方卡组中的一个随从。如果你的随从费用更高，则获得冲锋。,job:中立,type:随从,ablity:1
+cn_name:大师级枪骑士,cost:6,attack:5,rare:稀有,hp:6,en_name:Master Jouster,description:战吼：显示出双方卡组中的一个随从。如果你的随从费用更高，获得嘲讽和圣盾。,job:中立,type:随从,ablity:1
+cn_name:角斗场主管,cost:3,attack:2,rare:稀有,hp:5,en_name:Coliseum Manager,description:激励：此卡回到你的手牌,job:中立,type:随从,ablity:1
+cn_name:恐怖的奴隶主,cost:5,attack:3,rare:稀有,hp:3,en_name:Grim Patron,description:每当此卡受到伤害时，则召唤一张新的恐怖奴隶主。,job:中立,type:随从,ablity:1
+cn_name:龙卵,cost:1,attack:0,rare:稀有,hp:2,en_name:Dragon Egg,description:每当此卡受到伤害，则召唤一张2/1的幼龙。,job:中立,type:随从,ablity:1
+cn_name:龙王配偶,cost:5,attack:5,rare:稀有,hp:5,en_name:Dragon Consort,description:战吼：你使用的下一张龙族费用-2。,job:圣骑士,type:随从,ablity:1
+cn_name:腐根,cost:3,attack:0,rare:史诗,hp:0,en_name:Mulch,description:消灭一个随从，随机将一个随从置入对方手牌。,job:德鲁伊,type:法术,ablity:
+cn_name:星界沟通,cost:4,attack:0,rare:史诗,hp:0,en_name:Astral Communion,description:给你10颗法力水晶，丢弃你的所有手牌。,job:德鲁伊,type:法术,ablity:
+cn_name:精英对决,cost:6,attack:0,rare:史诗,hp:0,en_name:Enter the Coliseum,description:保留每位玩家攻击力最高的随从，消灭其余所有随从。,job:圣骑士,type:法术,ablity:
+cn_name:神秘挑战者,cost:6,attack:6,rare:史诗,hp:6,en_name:Mysterious Challenger,description:战吼：从你的卡组中召唤所有不重复的奥秘。,job:圣骑士,type:随从,ablity:1
+cn_name:灌魔之锤,cost:4,attack:2,rare:史诗,hp:4,en_name:Charged Hammer,description:亡语：你的英雄技能变为造成2点伤害。,job:萨满,type:装备,ablity:1
+cn_name:元素毁灭,cost:3,attack:0,rare:史诗,hp:0,en_name:Elemental Destruction,description:过载5，全场所有随从收到4-5点伤害。,job:萨满,type:法术,ablity:1
+cn_name:兽栏大师,cost:3,attack:4,rare:史诗,hp:2,en_name:Stablemaster,description:战吼：给一个野兽获得免疫（本回合）。,job:猎人,type:随从,ablity:1
+cn_name:子弹上膛,cost:2,attack:0,rare:史诗,hp:0,en_name:Lock and Load,description:本回合每当你使用一个法术，获得一张随机的猎人卡牌加入手牌。,job:猎人,type:法术,ablity:
+cn_name:猛犸人头领,cost:4,attack:5,rare:史诗,hp:3,en_name:Magnataur Alpha,description:同时对其攻击目标相邻的随从造成伤害。,job:战士,type:随从,ablity:
+cn_name:破海者,cost:6,attack:6,rare:史诗,hp:7,en_name:Sea Reaver,description:当你抽到这张卡，对所有你的随从造成1点伤害。,job:战士,type:随从,ablity:
+cn_name:危机四伏,cost:3,attack:0,rare:史诗,hp:0,en_name:Beneath the Grounds,description:将3张伏兵卡加入对方卡组，当对手抽到伏兵卡，为自己召唤一个4/4甲虫。,job:盗贼,type:法术,ablity:1
+cn_name:淬毒利刃,cost:4,attack:1,rare:史诗,hp:3,en_name:Poisoned Blade,description:你的英雄技能不会取代你的武器，而改为+1攻击力。,job:盗贼,type:装备,ablity:
+cn_name:暗影魔,cost:3,attack:3,rare:史诗,hp:3,en_name:Shadowfiend,description:（当这张卡在场时候）每当你抽一张牌，抽到的那张牌减一费。,job:牧师,type:随从,ablity:
+cn_name:迷乱,cost:2,attack:0,rare:史诗,hp:0,en_name:Confuse,description:所有随从血攻互换。,job:牧师,type:法术,ablity:
+cn_name:恐惧战马,cost:4,attack:1,rare:史诗,hp:1,en_name:Dreadsteed,description:亡语：召唤一批恐惧战马。,job:术士,type:随从,ablity:2
+cn_name:黑暗契约,cost:6,attack:0,rare:史诗,hp:0,en_name:Dark Bargain,description:随机消灭两个敌方随从，随机丢弃两张卡。,job:术士,type:法术,ablity:
+cn_name:奥术冲击,cost:1,attack:0,rare:史诗,hp:0,en_name:Arcane Blast,description:1费对一个随从造成2点伤害，此卡受到的法伤加成翻倍。,job:法师,type:法术,ablity:
+cn_name:考达拉幼龙,cost:6,attack:6,rare:史诗,hp:6,en_name:Coldarra Drake,description:你可以使用任意次数的英雄技能。,job:法师,type:随从,ablity:
+cn_name:暮光守护者,cost:4,attack:2,rare:史诗,hp:6,en_name:Twilight Guardian,description:战吼：如果你手中有龙，则+1攻击并嘲讽。,job:中立,type:随从,ablity:1
+cn_name:征募官,cost:5,attack:5,rare:史诗,hp:4,en_name:Recruiter,description:激励：将一个2/2的侍从加入你的手牌。,job:中立,type:随从,ablity:2
+cn_name:杂耍吞法者,cost:6,attack:6,rare:史诗,hp:5,en_name:Sideshow Spelleater,description:战吼：复制你对手的英雄技能。,job:中立,type:随从,ablity:1
+cn_name:庆典司仪,cost:3,attack:4,rare:史诗,hp:2,en_name:Master of Ceremonies,description:战吼：如果你控制任何法术强度加强的随从，获得+2/+2。,job:中立,type:随从,ablity:1
+cn_name:人气选手,cost:4,attack:4,rare:史诗,hp:4,en_name:Crowd Favorite,description:每当你使用带有战吼的随从，便获得+1/+1。,job:中立,type:随从,ablity:
+cn_name:十字军统领,cost:6,attack:5,rare:史诗,hp:5,en_name:Grand Crusader,description:战吼-随机将一张圣骑士牌加入你的手牌。,job:中立,type:随从,ablity:1
+cn_name:要塞指挥官,cost:2,attack:2,rare:史诗,hp:3,en_name:Garrison Commander,description:你每回合可以使用两次英雄技能。,job:中立,type:随从,ablity:
+cn_name:科多兽骑手,cost:6,attack:3,rare:史诗,hp:5,en_name:Kodorider,description:激励：召唤一个3/5作战科多兽。,job:中立,type:随从,ablity:1
+cn_name:冰霜巨人,cost:10,attack:8,rare:史诗,hp:8,en_name:Frost Giant,description:本局比赛每使用一次英雄技能费用减1。,job:中立,type:随从,ablity:
+cn_name:侏儒变形师,cost:2,attack:3,rare:史诗,hp:2,en_name:Recombobulator,description:战吼：将一个友方随从随机变形为一个法力值消耗相同的随从。,job:中立,type:随从,ablity:1
+cn_name:载人飞天魔像,cost:6,attack:6,rare:史诗,hp:4,en_name:Piloted Sky Golem,description:亡语：随机召唤一个法力消耗值为（4）点的随从。,job:中立,type:随从,ablity:1
+cn_name:,cost:  ,attack:  ,rare:  ,hp:  ,en_name:  ,description: ,job:  ,type:  ,ablity:  
+cn_name:回收机器人,cost:5,attack:1,rare:史诗,hp:5,en_name:Junkbot,description:每当一个友方机械死亡，便获得+2/+2。,job:中立,type:随从,ablity:
+cn_name:大胖,cost:3,attack:2,rare:史诗,hp:3,en_name:Hobgoblin,description:每当你使用一张攻击力为1的随从牌，便使该牌所召唤的随从获得+2/+2。,job:中立,type:随从,ablity:
+cn_name:魔能机甲,cost:5,attack:8,rare:史诗,hp:8,en_name:Fel Reaver,description:每当你的对手使用一张牌时，便丢弃掉你的牌库顶的三张牌。,job:中立,type:随从,ablity:
+cn_name:,cost:  ,attack:  ,rare:  ,hp:  ,en_name:  ,description: ,job:  ,type:  ,ablity:  
+cn_name:发条巨人,cost:12,attack:8,rare:史诗,hp:8,en_name:Clockwork Giant,description:你的对手每有一张手牌，该牌的法力值消耗便减少（1）点。,job:中立,type:随从,ablity:
+cn_name:重碾,cost:7,attack:0,rare:史诗,hp:0,en_name:Crush,description:摧毁一个随从，如果你控制的任何随从受到了伤害，那么这张卡的法力消耗减少4。,job:战士,type:法术,ablity:
+cn_name:弹射之刃,cost:3,attack:0,rare:史诗,hp:0,en_name:Bouncing Blade,description:对随机随从造成一点伤害，随机此效果直到有随从死亡。,job:战士,type:法术,ablity:
+cn_name:恶魔之心,cost:5,attack:0,rare:史诗,hp:0,en_name:Demonheart,description:对一个随从造成5点伤害，如果是友方恶魔，则获得+5/+5。,job:术士,type:法术,ablity:
+cn_name:心能魔像,cost:6,attack:9,rare:史诗,hp:9,en_name:Anima Golem,description:在每个回合结束的时候，如果只有这一张随从，就破坏它。,job:术士,type:随从,ablity:
+cn_name:沙鳞灵魂行者,cost:4,attack:2,rare:史诗,hp:5,en_name:Siltfin Spiritwalker,description:每当另一个鱼人死亡的时候，抽一张牌。,job:萨满,type:随从,ablity:1
+cn_name:先祖召唤,cost:4,attack:0,rare:史诗,hp:0,en_name:Ancestor's Call,description:每个玩家将一个手牌随机随从置入战场。,job:萨满,type:法术,ablity:1
+cn_name:暗中破坏,cost:4,attack:0,rare:史诗,hp:0,en_name:Sabotage,description:消灭一个敌方随从，连击：摧毁你对手的武器。,job:盗贼,type:法术,ablity:1
+cn_name:齿轮大师的扳手,cost:3,attack:1,rare:史诗,hp:3,en_name:Cogmaster's Wrench,description:如果你控制任何机械，该武器获得+2攻击力。,job:盗贼,type:装备,ablity:
+cn_name:暗影投弹者,cost:1,attack:2,rare:史诗,hp:1,en_name:Shadowbomber,description:战吼：给每个英雄造成3点伤害。,job:牧师,type:随从,ablity:1
+cn_name:圣光炸弹,cost:6,attack:0,rare:史诗,hp:0,en_name:Lightbomb,description:对所有随从造成攻击力的伤害。,job:牧师,type:法术,ablity:
+cn_name:军需官,cost:5,attack:2,rare:史诗,hp:5,en_name:Quartermaster,description:战吼：你的白银之手新兵获得+2/+2。,job:圣骑士,type:随从,ablity:1
+cn_name:齿轮光锤,cost:3,attack:2,rare:史诗,hp:3,en_name:Coghammer,description:战吼：使一个随机的友方随从获得圣盾和嘲讽。,job:圣骑士,type:装备,ablity:1
+cn_name:小个子扰咒师,cost:4,attack:2,rare:史诗,hp:5,en_name:Wee Spellstopper,description:相邻的随从无法成为法术或英雄的对象。,job:法师,type:随从,ablity:
+cn_name:艾维娜,cost:9,attack:5,rare:传说,hp:5,en_name:Aviana,description:你的随从费用为1。,job:德鲁伊,type:随从,ablity:
+cn_name:纯洁者耶德瑞克,cost:7,attack:3,rare:传说,hp:7,en_name:Eadric the Pure,description:战吼：将所有敌方随从攻击变为1点。,job:圣骑士,type:随从,ablity:1
+cn_name:唤雾者伊戈瓦尔,cost:6,attack:4,rare:传说,hp:4,en_name:The Mistcaller,description:战吼：你手牌和牌库的随从获得+1/+1。,job:萨满,type:随从,ablity:1
+cn_name:恐鳞,cost:3,attack:4,rare:传说,hp:2,en_name:Dreadscale,description:你的回合结束阶段对所有其他随从造成1点伤害。,job:猎人,type:随从,ablity:
+cn_name:酸喉,cost:7,attack:4,rare:传说,hp:2,en_name:Acidmaw,description:当其他随从受到伤害，则直接被消灭。,job:猎人,type:随从,ablity:
+cn_name:瓦里安乌瑞恩,cost:10,attack:7,rare:传说,hp:7,en_name:Varian Wrynn,description:抽三张牌，将抽到的随从置入战场。,job:战士,type:随从,ablity:2
+cn_name:阿努巴拉克,cost:9,attack:8,rare:传说,hp:4,en_name:Anub'arak,description:亡语-此牌返回你手上，并召唤一个4/4的蛛魔。,job:盗贼,type:随从,ablity:2
+cn_name:银色神官帕尔崔丝,cost:7,attack:5,rare:传说,hp:4,en_name:Confessor Paletress,description:激励：召唤一个传说级随从。,job:牧师,type:随从,ablity:1
+cn_name:威尔佛雷德菲兹班,cost:6,attack:4,rare:传说,hp:4,en_name:Wilfred Fizzlebang,description:你英雄技能抽到的卡牌费用为（0）。,job:术士,type:随从,ablity:
+cn_name:罗宁,cost:8,attack:7,rare:传说,hp:7,en_name:Rhonin,description:亡语：将3张奥术飞弹加入手牌。,job:法师,type:随从,ablity:1
+cn_name:博尔夫碎盾,cost:6,attack:3,rare:传说,hp:9,en_name:Bolf Ramshield,description:代替你的英雄承受伤害。,job:中立,type:随从,ablity:
+cn_name:冰喉,cost:7,attack:6,rare:传说,hp:6,en_name:Chillmaw,description:嘲讽，亡语-如果你手上有龙，则对全场随从造成3点伤害。,job:中立,type:随从,ablity:2
+cn_name:光明邪使菲奥拉,cost:3,attack:3,rare:传说,hp:4,en_name:Fjola Lightbane,description:当你以该随从为目标使用法术的时候，该随从获得圣盾。,job:中立,type:随从,ablity:1
+cn_name:黑暗邪使艾蒂丝,cost:3,attack:3,rare:传说,hp:4,en_name:Eydis Darkbane,description:当你以该随从为目标使用法术的时候，其对随机敌人造成3点伤害。,job:中立,type:随从,ablity:
+cn_name:穿刺者戈莫克,cost:4,attack:4,rare:传说,hp:4,en_name:Gormok the Impaler,description:战吼：如果你有着至少4只其他随从，造成4点伤害。,job:中立,type:随从,ablity:1
+cn_name:骷髅骑士,cost:6,attack:7,rare:传说,hp:4,en_name:The Skeleton Knight,description:亡语：显示出双方卡组里的一个随从，如果你的随从费用更高，那么将本牌返回你的手牌。,job:中立,type:随从,ablity:1
+cn_name:虚灵勇士萨兰德,cost:5,attack:4,rare:传说,hp:5,en_name:Nexus Champion Saraad,description:激励：将一个随机法术置入你的手牌。,job:中立,type:随从,ablity:1
+cn_name:裁决者图哈特,cost:6,attack:6,rare:传说,hp:4,en_name:Justicar Trueheart,description:战吼：用更强的英雄技能替换你的初始英雄技能。,job:中立,type:随从,ablity:1
+cn_name:冰吼,cost:9,attack:10,rare:传说,hp:10,en_name:Icehowl,description:冲锋，不能攻击英雄。,job:中立,type:随从,ablity:1
+cn_name:天空上尉库拉格,cost:7,attack:4,rare:传说,hp:6,en_name:Skycap'n Kragg,description:冲冲冲！冲啊！每有友方一张海盗，这张卡费用-1.,job:中立,type:随从,ablity:1
+cn_name:索瑞森大帝,cost:6,attack:5,rare:传说,hp:5,en_name:Emperor Thaurissan,description:在你的回合结束时候，你的所有手牌费用-1。,job:中立,type:随从,ablity:
+cn_name:雷德黑手,cost:7,attack:8,rare:传说,hp:4,en_name:Rend Blackhand,description:战吼，如果你的手牌有龙族，则消灭一张传说随从牌。,job:中立,type:随从,ablity:1
+cn_name:克洛玛古斯,cost:8,attack:6,rare:传说,hp:8,en_name:Chromaggus,description:每当你抽牌的时候，复制一张同样的卡牌加入你的手牌。,job:中立,type:随从,ablity:
+cn_name:奈法利安,cost:9,attack:8,rare:传说,hp:8,en_name:Nefarian,description:战吼：随机将对方职业的两张法术牌加入你的手牌。,job:中立,type:随从,ablity:1
+cn_name:管理者埃克索图斯,cost:9,attack:9,rare:传说,hp:7,en_name:Majordomo Executus,description:亡语：用炎魔之王拉格纳罗斯替换你的英雄。,job:中立,type:随从,ablity:1
+cn_name:颤地者特罗格佐尔,cost:7,attack:6,rare:传说,hp:6,en_name:Troggzor the Earthinator,description:每当你的对手施放一个法术，召唤一个石腭穴居人壮汉。,job:中立,type:随从,ablity:1
+cn_name:托什雷,cost:6,attack:5,rare:传说,hp:7,en_name:Toshley,description:战吼和亡语：将一张零件牌置入你的手牌。,job:中立,type:随从,ablity:2
+cn_name:斯尼德的伐木机,cost:8,attack:5,rare:传说,hp:7,en_name:Sneed's Old Shredder,description:亡语：随机召唤一个传说随从。,job:中立,type:随从,ablity:2
+cn_name:食人魔勇士穆戈尔,cost:6,attack:7,rare:传说,hp:6,en_name:Mogor the Ogre,description:所有随从有50%几率攻击错误敌人。,job:中立,type:随从,ablity:
+cn_name:米米尔隆的头部,cost:5,attack:4,rare:传说,hp:5,en_name:Mimiron's Head,description:在你的回合开始时，如果你控制至少3个机械，则消灭这些机械，并将其组成V-07-TR-ON。,job:中立,type:随从,ablity:
+cn_name:瑟玛普拉格,cost:9,attack:9,rare:传说,hp:7,en_name:Mekgineer Thermaplugg,description:每当一个地方随从死亡，召唤一个麻疯侏儒。,job:中立,type:随从,ablity:1
+cn_name:赫米特·奈辛瓦里,cost:5,attack:6,rare:传说,hp:3,en_name:Hemet Nesingwary,description:战吼：消灭一只野兽。,job:中立,type:随从,ablity:1
+cn_name:加兹鲁维,cost:6,attack:3,rare:传说,hp:6,en_name:Gazlowe,description:每当你施放一个消耗法力值为（1）的法术，随机将一张机械牌植入你的手牌。,job:中立,type:随从,ablity:
+cn_name:死神4000型,cost:8,attack:6,rare:传说,hp:9,en_name:Foe Reaper 4000,description:同时对其攻击目标相邻的随从造成伤害。,job:中立,type:随从,ablity:
+cn_name:砰砰博士,cost:7,attack:7,rare:传说,hp:7,en_name:Dr Boom,description:战吼：召唤2个1/1的砰砰机器人。警告该机器人随时可能爆炸。,job:中立,type:随从,ablity:2
+cn_name:布林顿3000型,cost:5,attack:3,rare:传说,hp:4,en_name:Blingtron 3000,description:战吼：为每个玩家装备一把武器。,job:中立,type:随从,ablity:1
+cn_name:钢铁战蝎,cost:6,attack:6,rare:传说,hp:5,en_name:Iron Juggernaut,description:将一张地雷牌洗入对手牌库，如果对手抽到时，会对他造成10点伤害。,job:战士,type:随从,ablity:1
+cn_name:玛尔加尼斯,cost:9,attack:9,rare:传说,hp:7,en_name:Mal'Ganis,description:你的其他恶魔获得+2/+2，你的英雄获得免疫。,job:术士,type:随从,ablity:
+cn_name:耐普图隆,cost:7,attack:7,rare:传说,hp:7,en_name:Neptulon,description:过载3，战吼：你随机获得4张鱼人。,job:萨满,type:随从,ablity:2
+cn_name:加里维克斯,cost:6,attack:5,rare:传说,hp:8,en_name:Trade Prince Gallywix,description:每当你的随手使用法术的时候，复制该法术并给予他一个硬币。,job:盗贼,type:随从,ablity:
+cn_name:沃金,cost:5,attack:6,rare:传说,hp:2,en_name:Vol'jin,description:战吼：与另一个随从交换生命。,job:牧师,type:随从,ablity:1
+cn_name:伯瓦尔弗塔根,cost:5,attack:1,rare:传说,hp:7,en_name:Bolvar Fordragon,description:如果该牌在你的手牌中，每当一个友方随从死亡，便获得+1攻击力。,job:圣骑士,type:随从,ablity:
+cn_name:烈焰巨兽,cost:7,attack:7,rare:传说,hp:7,en_name:Flame Leviathan,description:当你抽到该卡时，对全部角色造成两点伤害。,job:法师,type:随从,ablity:
+cn_name:加兹瑞拉,cost:7,attack:6,rare:传说,hp:9,en_name:Gahz'rilla,description:每当该随从收到伤害，便获得攻击力加倍。,job:猎人,type:随从,ablity:
+cn_name:玛洛恩,cost:7,attack:9,rare:传说,hp:7,en_name:Malorne,description:亡语：将该随从洗入你的牌库。,job:德鲁伊,type:随从,ablity:1
+cn_name:黑铁潜藏者,cost:5,attack:4,rare:稀有,hp:3,en_name:Dark Iron Skulker,description:战吼：对未受伤的敌方随从造成2点伤害。,job:盗贼,type:随从,ablity:1
+cn_name:达拉然铁骑士,cost:4,attack:3,rare:普通,hp:5,en_name:Dalaran Aspirant,description:激励：此随从获得法术强度+1。,job:法师,type:随从,ablity:1
+cn_name:夜幕奇袭,cost:2,attack:0,rare:普通,hp:0,en_name:Gang Up,description:选择一个随从，将三张同样的随从加入你的牌库。,job:盗贼,type:法术,ablity:
+cn_name:嗜法者,cost:3,attack:3,rare:普通,hp:4,en_name:Spellslinger,description:战吼：将一个随机法术加入每个玩家的手牌。,job:法师,type:随从,ablity:1
+cn_name:修补匠的磨刀油,cost:4,attack:0,rare:普通,hp:0,en_name:Tinker's Sharpsword Oil,description:给你的武器+3攻击力，连击：给你的随从+3攻击力。,job:盗贼,type:法术,ablity:1
+cn_name:地精自动理发装置,cost:2,attack:3,rare:普通,hp:2,en_name:Goblin Auto-Barber,description:战吼，你的武器攻击力+1。,job:盗贼,type:随从,ablity:1
+cn_name:,cost:  ,attack:  ,rare:  ,hp:  ,en_name:  ,description: ,job:  ,type:  ,ablity:  
+cn_name:独眼欺诈者,cost:2,attack:4,rare:稀有,hp:1,en_name:One-eyed Cheat,description:每当你召唤一个海盗，获得潜行。,job:盗贼,type:随从,ablity:
+cn_name:食人魔忍者,cost:5,attack:6,rare:稀有,hp:6,en_name:Ogre Ninja,description:潜行，有50%几率攻击到错误的敌方目标。,job:盗贼,type:随从,ablity:1
+cn_name:火妖,cost:3,attack:2,rare:稀有,hp:4,en_name:Flamewaker,description:每当你施放法术后，随机的分配2点伤害给敌人角色。,job:法师,type:随从,ablity:
+cn_name:钢铁武道家,cost:3,attack:2,rare:稀有,hp:2,en_name:Iron Sensei,description:在你的回合结束时，给你一个其他的机械随从+2/+2。,job:盗贼,type:随从,ablity:
+cn_name:龙息术,cost:5,attack:0,rare:普通,hp:0,en_name:Dragon's Breath,description:造成4点伤害，本回合每当有一个随从死亡，则此卡费用-1。,job:法师,type:法术,ablity:
+cn_name:碎冰机器人,cost:2,attack:2,rare:普通,hp:3,en_name:Snowchugger,description:冻结任何受到该随从伤害的角色。,job:法师,type:随从,ablity:1
+cn_name:阿努巴尔伏击者,cost:4,attack:5,rare:普通,hp:5,en_name:Anub'ar Ambusher,description:亡语：将一个随机友方随从移回你的手牌。,job:盗贼,type:随从,ablity:1
+cn_name:烈焰轰击,cost:2,attack:0,rare:普通,hp:0,en_name:Flamecannon,description:对一个随机随从造成4点伤害。,job:法师,type:法术,ablity:
+cn_name:影袭,cost:1,attack:0,rare:免费,hp:0,en_name:Sinister Strike,description:对敌方英雄造成3点伤害。,job:盗贼,type:法术,ablity:
+cn_name:不稳定的传送门,cost:2,attack:0,rare:稀有,hp:0,en_name:Unstable Portal,description:将一张随机随从牌加入你手牌，该随从费用-3。,job:法师,type:法术,ablity:
+cn_name:闷棍,cost:2,attack:0,rare:免费,hp:0,en_name:Sap,description:将一个敌方随从移回其拥有者的手牌。,job:盗贼,type:法术,ablity:
+cn_name:烟煤喷吐装置,cost:3,attack:3,rare:稀有,hp:3,en_name:Soot Spewer,description:法术伤害+1,job:法师,type:随从,ablity:1
+cn_name:致命药膏,cost:1,attack:0,rare:免费,hp:0,en_name:Deadly Poison,description:使你的武器获得+2攻击力。,job:盗贼,type:法术,ablity:
+cn_name:地精炎术师,cost:4,attack:5,rare:稀有,hp:4,en_name:Goblin Blastmage,description:战吼：如果你控制任何机械，则造成4点伤害，随机到敌方角色上。,job:法师,type:随从,ablity:1
+cn_name:背刺,cost:0,attack:0,rare:免费,hp:0,en_name:Backstab,description:对1名敌对随从造成2点伤害。,job:盗贼,type:法术,ablity:
+cn_name:刺杀,cost:5,attack:0,rare:免费,hp:0,en_name:Assassinate,description:消灭一个敌方随从。,job:盗贼,type:法术,ablity:
+cn_name:麦迪文残影,cost:4,attack:0,rare:史诗,hp:0,en_name:Echo of Medivh,description:复制你的所有随从，并将其置入你的手牌。,job:法师,type:法术,ablity:
+cn_name:消失,cost:6,attack:0,rare:免费,hp:0,en_name:Vanish,description:将所有随从移回其拥有者的手牌。,job:盗贼,type:法术,ablity:
+cn_name:复制,cost:3,attack:0,rare:普通,hp:0,en_name:Duplicate,description:当一个友方随从死亡时，将两个该随从的复制置入你的手牌。,job:法师,type:法术,ablity:1
+cn_name:刺骨,cost:2,attack:0,rare:免费,hp:0,en_name:Eviscerate,description:造成2点伤害。连击：造成4点伤害取而代之。,job:盗贼,type:法术,ablity:
+cn_name:变形术,cost:4,attack:0,rare:免费,hp:0,en_name:Polymorph,description:使一个随从变形成为1/1的绵羊。,job:法师,type:法术,ablity:
+cn_name:疾跑,cost:7,attack:0,rare:免费,hp:0,en_name:Sprint,description:抽4张牌。,job:盗贼,type:法术,ablity:1
+cn_name:火球术,cost:4,attack:0,rare:免费,hp:0,en_name:Fireball,description:造成6点伤害。,job:法师,type:法术,ablity:
+cn_name:刺客之刃,cost:5,attack:3,rare:免费,hp:4,en_name:Assassin's Blade,description:,job:盗贼,type:装备,ablity:
+cn_name:刀扇,cost:3,attack:0,rare:免费,hp:0,en_name:Fan of Knives,description:对所有敌方随从造成1点伤害，抽一张牌。,job:盗贼,type:法术,ablity:1
+cn_name:奥术飞弹,cost:1,attack:0,rare:免费,hp:0,en_name:Arcane Missiles,description:造成3点伤害，随机分配给敌方角色。,job:法师,type:法术,ablity:
+cn_name:暗影步,cost:0,attack:0,rare:普通,hp:0,en_name:Shadowstep,description:使一个友方随从移回你的手牌，它的法力值消耗减少（2）点。,job:盗贼,type:法术,ablity:
+cn_name:奥术智慧,cost:3,attack:0,rare:免费,hp:0,en_name:Arcane Intellect,description:抽2张牌。,job:法师,type:法术,ablity:1
+cn_name:毒刃,cost:2,attack:0,rare:普通,hp:0,en_name:Shiv,description:造成1点伤害，抽一张牌。,job:盗贼,type:法术,ablity:1
+cn_name:魔爆术,cost:2,attack:0,rare:免费,hp:0,en_name:Arcane Explosion,description:对所有敌方随从造成1点伤害。,job:法师,type:法术,ablity:
+cn_name:迪菲亚头目,cost:2,attack:2,rare:普通,hp:3,en_name:Defias Ringleader,description:连击：召唤一个2/1的迪菲亚强盗。,job:盗贼,type:随从,ablity:2
+cn_name:水元素,cost:4,attack:3,rare:免费,hp:6,en_name:Water Elemental,description:冻结任何受到水元素伤害的随从。,job:法师,type:随从,ablity:1
+cn_name:隐藏,cost:1,attack:0,rare:普通,hp:0,en_name:Conceal,description:直到你的下个回合，使所有友方随从获得潜行。,job:盗贼,type:法术,ablity:1
+cn_name:巫师学徒,cost:2,attack:3,rare:普通,hp:2,en_name:Sorcerer's Apprentice,description:你的法术的法力值消耗减少（1）点。,job:法师,type:随从,ablity:
+cn_name:冷血,cost:1,attack:0,rare:普通,hp:0,en_name:Cold Blood,description:使一个随从获得+2攻击力；连击：改为获得+4攻击力。,job:盗贼,type:法术,ablity:
+cn_name:镜像,cost:1,attack:0,rare:免费,hp:0,en_name:Mirror Image,description:召唤两个0/2，并具有嘲讽的随从。,job:法师,type:法术,ablity:1
+cn_name:背叛,cost:2,attack:0,rare:普通,hp:0,en_name:Betrayal,description:一个敌方随从对其相邻的随从造成等同于其攻击力的伤害。,job:盗贼,type:法术,ablity:
+cn_name:镜像实体,cost:3,attack:0,rare:普通,hp:0,en_name:Mirror Entity,description:奥秘：当一个敌方随从进行攻击时，召唤一个该随从的复制。,job:法师,type:法术,ablity:1
+cn_name:军情七处特工,cost:3,attack:3,rare:稀有,hp:3,en_name:SI7 Agent,description:连击：造成2点伤害。,job:盗贼,type:随从,ablity:1
+cn_name:法力浮龙,cost:1,attack:1,rare:普通,hp:3,en_name:Mana Wyrm,description:每当你施放一个法术时，便获得+1攻击力。,job:法师,type:随从,ablity:
+cn_name:毁灭之刃,cost:3,attack:2,rare:稀有,hp:2,en_name:Perdition's Blade,description:战吼：造成1点伤害。连击：改为造成2点伤害。,job:盗贼,type:装备,ablity:1
+cn_name:冰枪术,cost:1,attack:0,rare:普通,hp:0,en_name:Ice Lance,description:使一个角色冻结，如果它已经被冻结，则改为对其造成4点伤害。,job:法师,type:法术,ablity:1
+cn_name:伪装大师,cost:3,attack:4,rare:稀有,hp:3,en_name:Master of Disguise,description:战吼：使一个友方随从获得潜行。,job:盗贼,type:随从,ablity:1
+cn_name:寒冰护体,cost:3,attack:0,rare:普通,hp:0,en_name:Ice Barrier,description:奥秘：当你的英雄受到攻击时，获得8点护甲值。,job:法师,type:法术,ablity:1
+cn_name:裂颅之击,cost:3,attack:0,rare:稀有,hp:0,en_name:Headcrack,description:对敌方英雄造成2点伤害；连击：在下个回合将其移回你的手牌。,job:盗贼,type:法术,ablity:1
+cn_name:寒冰箭,cost:2,attack:0,rare:免费,hp:0,en_name:Frostbolt,description:对一个角色造成3点伤害，并使其冻结。,job:法师,type:法术,ablity:1
+cn_name:剑刃乱舞,cost:2,attack:0,rare:稀有,hp:0,en_name:Blade Flurry,description:摧毁你的武器，对所有敌方角色造成等同于其攻击力的伤害。,job:盗贼,type:法术,ablity:
+cn_name:冰霜新星,cost:3,attack:0,rare:免费,hp:0,en_name:Frost Nova,description:冻结所有敌方随从。,job:法师,type:法术,ablity:1
+cn_name:伺机待发,cost:0,attack:0,rare:史诗,hp:0,en_name:Preparation,description:在本回合中，你所施放的下一个法术的法力值消耗减少（3）点。,job:盗贼,type:法术,ablity:
+cn_name:烈焰风暴,cost:7,attack:0,rare:免费,hp:0,en_name:Flamestrike,description:对所有敌方随从造成4点伤害。,job:法师,type:法术,ablity:
+cn_name:耐心的刺客,cost:2,attack:1,rare:史诗,hp:1,en_name:Patient Assassin,description:潜行，消灭任何受到该随从伤害的随从。,job:盗贼,type:随从,ablity:1
+cn_name:冰锥术,cost:4,attack:0,rare:普通,hp:0,en_name:Cone of Cold,description:冻结一个随从和其相邻的随从，并对它们造成1点伤害。,job:法师,type:法术,ablity:1
+cn_name:劫持者,cost:6,attack:5,rare:史诗,hp:3,en_name:Kidnapper,description:连击：将一个随从移回其拥有者的手牌。,job:盗贼,type:随从,ablity:1
+cn_name:蒸发,cost:3,attack:0,rare:稀有,hp:0,en_name:Vaporize,description:奥秘：当一个随从攻击你的英雄，将其消灭。,job:法师,type:法术,ablity:1
+cn_name:艾德温·范克里夫,cost:3,attack:2,rare:传说,hp:2,en_name:Edwin VanCleef,description:连击：在本回合中，每有一张其他牌在该牌前被使用，便获得+2/+2。,job:盗贼,type:随从,ablity:1
+cn_name:肯瑞托法师,cost:3,attack:4,rare:稀有,hp:3,en_name:Kirin Tor Mage,description:战吼：在本回合中，你使用的下一个奥秘的法力值消耗为（0）点。,job:法师,type:随从,ablity:1
+cn_name:法术反制,cost:3,attack:0,rare:稀有,hp:0,en_name:Counterspell,description:奥秘：当你的对手施放法术时，反制该法术。,job:法师,type:法术,ablity:1
+cn_name:暴风雪,cost:6,attack:0,rare:稀有,hp:0,en_name:Blizzard,description:对所有敌方随从造成2点伤害，并使其冻结。,job:法师,type:法术,ablity:1
+cn_name:虚灵奥术师,cost:4,attack:3,rare:稀有,hp:3,en_name:Ethereal Arcanist,description:当你在回合结束时控制一个奥秘，该随从便获得+2/+2。,job:法师,type:随从,ablity:
+cn_name:扰咒术,cost:3,attack:0,rare:史诗,hp:0,en_name:Spellbender,description:奥秘：当一个敌方法术以一个随从为目标时，召唤一个1/3的随从并使其成为新的目标。,job:法师,type:法术,ablity:1
+cn_name:炎爆术,cost:10,attack:0,rare:史诗,hp:0,en_name:Pyroblast,description:造成10点伤害。,job:法师,type:法术,ablity:
+cn_name:寒冰屏障,cost:3,attack:0,rare:史诗,hp:0,en_name:Ice Block,description:奥秘：每当你的英雄将要承受致命伤害时，防止这些伤害，并使其在本回合中获得免疫。,job:法师,type:法术,ablity:1
+cn_name:大法师安东尼达斯,cost:7,attack:5,rare:传说,hp:7,en_name:Archmage Antonidas,description:每当你施放一个法术时，将一张“火球术”法术牌置入你的手牌。,job:法师,type:随从,ablity:
+cn_name:复活术,cost:2,attack:0,rare:稀有,hp:0,en_name:Resurrect,description:随机召唤一张本局游戏中死亡的随从。,job:牧师,type:法术,ablity:1
+cn_name:暮光雏龙,cost:1,attack:2,rare:普通,hp:1,en_name:Twilight Whelp,description:战吼：如果手牌有龙族，则获得生命值+2。,job:牧师,type:随从,ablity:1
+cn_name:维纶的祝福,cost:3,attack:0,rare:普通,hp:0,en_name:Velen's Chosen,description:为一个随从+2/+4并获得法术强度+1.,job:牧师,type:法术,ablity:1
+cn_name:缩小射线工程师,cost:2,attack:3,rare:普通,hp:2,en_name:Shrinkmeister,description:战吼：在本回合使一个随从获得+2攻击力。,job:牧师,type:随从,ablity:1
+cn_name:高级修理机器人,cost:5,attack:5,rare:稀有,hp:5,en_name:Upgraded Repair Bot,description:战吼：给一个友方机械随从获得+4生命。,job:牧师,type:随从,ablity:1
+cn_name:暗影打击装甲,cost:2,attack:2,rare:稀有,hp:3,en_name:Shadowboxer,description:每当一个角色获得治疗，便对一个敌人造成1点伤害。,job:牧师,type:随从,ablity:
+cn_name:纳鲁之光,cost:1,attack:0,rare:稀有,hp:0,en_name:Light of the Naaru,description:回复3点伤害，如果该目标仍处于受伤状态，则召唤一个圣光守卫者。,job:牧师,type:法术,ablity:1
+cn_name:黑暗教徒,cost:3,attack:3,rare:普通,hp:4,en_name:Dark Cultist,description:亡语：使一个随机友方随从获得+3生命值。,job:牧师,type:随从,ablity:1
+cn_name:精神控制,cost:10,attack:0,rare:免费,hp:0,en_name:Mind Control,description:获得一个敌方随从的控制权。,job:牧师,type:法术,ablity:
+cn_name:先知维纶,cost:7,attack:7,rare:传说,hp:7,en_name:Prophet Velen,description:使你的法术牌和英雄技能的伤害和治疗效果翻倍。,job:牧师,type:随从,ablity:
+cn_name:圣殿执行者,cost:6,attack:6,rare:普通,hp:6,en_name:Temple Enforcer,description:战吼：使一个友方随从获得+3生命值。,job:牧师,type:随从,ablity:1
+cn_name:秘教暗影祭司,cost:6,attack:4,rare:史诗,hp:5,en_name:Cabal Shadow Priest,description:战吼：获得一个攻击力小于或等于2的敌方随从的控制权。,job:牧师,type:随从,ablity:1
+cn_name:神圣之火,cost:6,attack:0,rare:稀有,hp:0,en_name:Holy Fire,description:造成5点伤害。为你的英雄恢复5点生命值。,job:牧师,type:法术,ablity:
+cn_name:神圣新星,cost:5,attack:0,rare:免费,hp:0,en_name:Holy Nova,description:对所有敌方角色造成2点伤害，为所有友方角色恢复2点生命值。,job:牧师,type:法术,ablity:
+cn_name:光耀之子,cost:4,attack:0,rare:普通,hp:4,en_name:Lightspawn,description:该随从的攻击力等同于其生命值。,job:牧师,type:随从,ablity:
+cn_name:暗影狂乱,cost:4,attack:0,rare:稀有,hp:0,en_name:Shadow Madness,description:直到回合结束，获得一个攻击力小于或等于3的敌方随从的控制权。,job:牧师,type:法术,ablity:
+cn_name:群体驱散,cost:4,attack:0,rare:稀有,hp:0,en_name:Mass Dispel,description:沉默所有敌方随从，抽一张牌。,job:牧师,type:法术,ablity:2
+cn_name:奥金尼灵魂祭司,cost:4,attack:3,rare:稀有,hp:5,en_name:Auchenai Soulpriest,description:你的恢复生命值的牌和技能改为造成等量的伤害。,job:牧师,type:随从,ablity:
+cn_name:控心术,cost:4,attack:0,rare:史诗,hp:0,en_name:Mindgames,description:随机复制对手的牌库中的一张随从牌，并将其置入战场。,job:牧师,type:法术,ablity:
+cn_name:思维窃取,cost:3,attack:0,rare:普通,hp:0,en_name:Thoughtsteal,description:复制对手的牌库中的2张牌，并将其置入你的手牌。,job:牧师,type:法术,ablity:
+cn_name:心灵之火,cost:1,attack:0,rare:普通,hp:0,en_name:Inner Fire,description:使一个随从的攻击力等同于其生命值。,job:牧师,type:法术,ablity:
+cn_name:暗影形态,cost:3,attack:0,rare:史诗,hp:0,en_name:Shadowform,description:你的英雄技能变为“造成2点伤害”，如果已经处于暗影形态下：改为“造成3点伤害”。,job:牧师,type:法术,ablity:
+cn_name:暗言术：灭,cost:3,attack:0,rare:免费,hp:0,en_name:Shadow Word Death,description:消灭一个攻击力大于或等于5的随从。,job:牧师,type:法术,ablity:
+cn_name:暗言术：痛,cost:2,attack:0,rare:免费,hp:0,en_name:Shadow Word Pain,description:消灭一个攻击力小于或等于3的随从。,job:牧师,type:法术,ablity:
+cn_name:北郡牧师,cost:1,attack:1,rare:免费,hp:3,en_name:Northshire Cleric,description:每当一个随从获得治疗时，抽1张牌。,job:牧师,type:随从,ablity:1
+cn_name:心灵震爆,cost:2,attack:0,rare:免费,hp:0,en_name:Mind Blast,description:对敌方英雄造成5点伤害。,job:牧师,type:法术,ablity:
+cn_name:神圣之灵,cost:2,attack:0,rare:免费,hp:0,en_name:Divine Spirit,description:使一个随从的生命值翻倍。,job:牧师,type:法术,ablity:
+cn_name:光明之泉,cost:2,attack:0,rare:稀有,hp:5,en_name:Lightwell,description:在你的回合开始时，随机为一个受到伤害的友方角色恢复3点生命值。,job:牧师,type:随从,ablity:
+cn_name:真言术：盾,cost:1,attack:0,rare:免费,hp:0,en_name:Power Word Shield,description:使一个随从获得+2生命值。 抽一张牌。,job:牧师,type:法术,ablity:1
+cn_name:神圣惩击,cost:1,attack:0,rare:免费,hp:0,en_name:Holy Smite,description:造成2点伤害。,job:牧师,type:法术,ablity:
+cn_name:心灵视界,cost:1,attack:0,rare:免费,hp:0,en_name:Mind Vision,description:随机复制你的对手手牌中的一张牌，将其置入你的手牌。,job:牧师,type:法术,ablity:
+cn_name:沉默,cost:0,attack:0,rare:普通,hp:0,en_name:Silence,description:沉默一个随从。,job:牧师,type:法术,ablity:1
+cn_name:治疗之环,cost:0,attack:0,rare:普通,hp:0,en_name:Circle of Healing,description:为所有随从恢复4点生命值。,job:牧师,type:法术,ablity:
+cn_name:愤怒守卫,cost:2,attack:4,rare:仆从,hp:3,en_name:Wrathguard,description:每当该随从受到伤害，你的英雄受到等量的伤害。,job:术士,type:随从,ablity:
+cn_name:恶魔之怒,cost:3,attack:0,rare:稀有,hp:0,en_name:Demonwrath,description:对所有非恶魔随从造成2点伤害。,job:术士,type:法术,ablity:
+cn_name:小鬼首领,cost:3,attack:2,rare:普通,hp:4,en_name:Imp Gang Boss,description:每当他受到伤害的时候，召唤一只1/1的小鬼。,job:术士,type:随从,ablity:1
+cn_name:漂浮观察者,cost:5,attack:4,rare:普通,hp:4,en_name:Floating Watcher,description:每当你英雄在你的回合受到伤害，获得+2/+2。,job:术士,type:随从,ablity:
+cn_name:暗色炸弹,cost:2,attack:0,rare:普通,hp:0,en_name:Darkbomb,description:对一个角色造成3点伤害。,job:术士,type:法术,ablity:
+cn_name:痛苦女王,cost:2,attack:1,rare:稀有,hp:4,en_name:Mistress of Pain,description:每当该随从造成伤害的时候，获得等量的生命值。,job:术士,type:随从,ablity:
+cn_name:复仇打击,cost:2,attack:0,rare:稀有,hp:0,en_name:Revenge,description:对敌方随从造成1点伤害，如果你的血量少于12，则造成3点伤害。,job:战士,type:法术,ablity:
+cn_name:小鬼爆破,cost:4,attack:0,rare:稀有,hp:0,en_name:Imp-losion,description:对一个随从造成2-4点伤害，每造成1点伤害，召唤一个1/1的小鬼。,job:术士,type:法术,ablity:1
+cn_name:掷斧者,cost:4,attack:2,rare:普通,hp:5,en_name:Axe Flinger,description:每当此随从受到伤害的时候对敌方英雄造成2点伤害。,job:战士,type:随从,ablity:
+cn_name:邪能火炮,cost:4,attack:3,rare:稀有,hp:5,en_name:Fel Cannon,description:在你回合结束的时候，对一个非机械随从造成2点伤害。,job:术士,type:随从,ablity:
+cn_name:战斗机器人,cost:1,attack:1,rare:普通,hp:3,en_name:Warbot,description:激怒：攻击力+1。,job:战士,type:随从,ablity:1
+cn_name:食人魔战槌,cost:3,attack:4,rare:普通,hp:2,en_name:Ogre Warmaul,description:50%概率随机攻击一个其他敌人。,job:战士,type:装备,ablity:
+cn_name:重型攻城车,cost:5,attack:5,rare:稀有,hp:5,en_name:Siege Engine,description:每当你获得护甲，该随从攻击力+1。,job:战士,type:随从,ablity:
+cn_name:空灵召唤者,cost:4,attack:3,rare:普通,hp:4,en_name:Voidcaller,description:亡语：随机将一个恶魔从你的手牌置入战场。,job:术士,type:随从,ablity:1
+cn_name:持盾侍女,cost:6,attack:5,rare:稀有,hp:5,en_name:Shieldmaiden,description:战吼：给你的英雄增加5护甲。,job:战士,type:随从,ablity:1
+cn_name:虚空行者,cost:1,attack:1,rare:免费,hp:3,en_name:Voidwalker,description:嘲讽,job:术士,type:随从,ablity:1
+cn_name:废旧螺旋机甲,cost:4,attack:2,rare:稀有,hp:5,en_name:Screwjank Clunker,description:战吼：给你一个友方机械随从+2/+2。,job:战士,type:随从,ablity:1
+cn_name:魅魔,cost:2,attack:4,rare:免费,hp:3,en_name:Succubus,description:战吼：随机弃一张牌。,job:术士,type:随从,ablity:1
+cn_name:暗影箭,cost:3,attack:0,rare:免费,hp:0,en_name:Shadow Bolt,description:对1名随从造成4点伤害。,job:术士,type:法术,ablity:
+cn_name:地狱烈焰,cost:4,attack:0,rare:免费,hp:0,en_name:Hellfire,description:对所有角色造成3点伤害。,job:术士,type:法术,ablity:
+cn_name:死亡之咬,cost:4,attack:4,rare:普通,hp:2,en_name:Death's Bite,description:亡语：对所有随从造成1点伤害。,job:战士,type:装备,ablity:1
+cn_name:吸取生命,cost:3,attack:0,rare:免费,hp:0,en_name:Drain Life,description:造成2点伤害，为你的英雄恢复2点生命值。,job:术士,type:法术,ablity:
+cn_name:召唤传送门,cost:4,attack:0,rare:普通,hp:4,en_name:Summoning Portal,description:你的随从牌法力值消耗减少（2）点，但是不能少于（1）点。,job:术士,type:随从,ablity:
+cn_name:灵魂之火,cost:1,attack:0,rare:免费,hp:0,en_name:Soulfire,description:造成4点伤害，随机弃一张牌。,job:术士,type:法术,ablity:
+cn_name:猛击,cost:2,attack:0,rare:普通,hp:0,en_name:Slam,description:对一个随从造成2点伤害，如果它依然存活，则抽一张牌。,job:战士,type:法术,ablity:1
+cn_name:感知恶魔,cost:3,attack:0,rare:普通,hp:0,en_name:Sense Demons,description:从你的牌库中随机将2张恶魔牌置入你的手牌。,job:术士,type:法术,ablity:
+cn_name:盾牌格挡,cost:3,attack:0,rare:免费,hp:0,en_name:Shield Block,description:获得5点护甲。抽1张牌。,job:战士,type:法术,ablity:1
+cn_name:牺牲契约,cost:0,attack:0,rare:免费,hp:0,en_name:Sacrificial Pact,description:牺牲一个恶魔，为你的英雄恢复5点生命值。,job:术士,type:法术,ablity:
+cn_name:狂暴,cost:2,attack:0,rare:普通,hp:0,en_name:Rampage,description:使一个受过伤害的随从获得+3/+3。,job:战士,type:法术,ablity:
+cn_name:力量的代价,cost:1,attack:0,rare:普通,hp:0,en_name:Power Overwhelming,description:直到回合结束，使一个友方随从获得+4/+4，然后将其消灭。,job:术士,type:法术,ablity:
+cn_name:库卡隆精英卫士,cost:4,attack:4,rare:免费,hp:3,en_name:Kor'kron Elite,description:冲锋,job:战士,type:随从,ablity:1
+cn_name:死亡缠绕,cost:1,attack:0,rare:免费,hp:0,en_name:Mortal Coil,description:对一个随从造成1点伤害，如果死亡缠绕将其杀死，抽一张牌。,job:术士,type:法术,ablity:1
+cn_name:怒火中烧,cost:0,attack:0,rare:普通,hp:0,en_name:Inner Rage,description:对一个随从造成1点伤害，该随从获得+2攻击力。,job:战士,type:法术,ablity:
+cn_name:烈焰小鬼,cost:1,attack:3,rare:普通,hp:2,en_name:Flame Imp,description:战吼：对你的英雄造成3点伤害。,job:术士,type:随从,ablity:1
+cn_name:严酷的监工,cost:2,attack:2,rare:普通,hp:2,en_name:Cruel Taskmaster,description:战吼：对一个随从造成1点伤害，并使其获得+2攻击力。,job:战士,type:随从,ablity:1
+cn_name:恐惧地狱火,cost:6,attack:6,rare:免费,hp:6,en_name:Dread Infernal,description:战吼：对所有其他角色造成1点伤害。,job:术士,type:随从,ablity:1
+cn_name:顺劈斩,cost:2,attack:0,rare:免费,hp:0,en_name:Cleave,description:对2个随机敌方随从造成2点伤害。,job:战士,type:法术,ablity:
+cn_name:战斗怒火,cost:2,attack:0,rare:普通,hp:0,en_name:Battle Rage,description:每有一个受到伤害的友方角色，便抽一张牌。,job:战士,type:法术,ablity:1
+cn_name:恶魔之火,cost:2,attack:0,rare:普通,hp:0,en_name:Demonfire,description:对一个随从造成2点伤害，如果该随从是友方恶魔，则改为使其获得+2/+2。,job:术士,type:法术,ablity:
+cn_name:奥金斧,cost:5,attack:5,rare:免费,hp:2,en_name:Arcanite Reaper,description:,job:战士,type:装备,ablity:
+cn_name:腐蚀术,cost:1,attack:0,rare:免费,hp:0,en_name:Corruption,description:选择一个敌方随从，在你的回合开始时，消灭该随从。,job:术士,type:法术,ablity:
+cn_name:阿拉希武器匠,cost:4,attack:3,rare:普通,hp:3,en_name:Arathi Weaponsmith,description:战吼：装备一把2/2的武器。,job:战士,type:随从,ablity:1
+cn_name:鲜血小鬼,cost:1,attack:0,rare:普通,hp:1,en_name:Blood Imp,description:潜行，在你的回合结束时，随机使一个其他友方随从获得+1 生命值。,job:术士,type:随从,ablity:1
+cn_name:升级！,cost:1,attack:0,rare:稀有,hp:0,en_name:Upgrade!,description:如果你有一把武器，使它获得+1/+1。否则，装备一把1/3的武器。,job:战士,type:法术,ablity:
+cn_name:虚空恐魔,cost:3,attack:3,rare:稀有,hp:3,en_name:Void Terror,description:战吼：消灭该随从两侧的随从，并获得他们的攻击力和生命值。,job:术士,type:随从,ablity:
+cn_name:致死打击,cost:4,attack:0,rare:稀有,hp:0,en_name:Mortal Strike,description:造成4点伤害；如果你的英雄的生命值小于或等于12点，则改为造成6点伤害。,job:战士,type:法术,ablity:
+cn_name:灵魂虹吸,cost:6,attack:0,rare:稀有,hp:0,en_name:Siphon Soul,description:消灭一个随从，为你的英雄恢复3点生命值。,job:术士,type:法术,ablity:
+cn_name:暴乱狂战士,cost:3,attack:2,rare:稀有,hp:4,en_name:Frothing Berserker,description:每当一个随从受到伤害时，便获得+1攻击力。,job:战士,type:随从,ablity:
+cn_name:暗影烈焰,cost:4,attack:0,rare:稀有,hp:0,en_name:Shadowflame,description:消灭一个友方随从，对所有敌方随从造成等同于其攻击力的伤害。,job:术士,type:法术,ablity:
+cn_name:命令怒吼,cost:2,attack:0,rare:稀有,hp:0,en_name:Commanding Shout,description:本回合内，你随从的血量无法低于1点。,job:战士,type:法术,ablity:
+cn_name:恶魔卫士,cost:3,attack:3,rare:稀有,hp:5,en_name:Felguard,description:嘲讽，战吼：摧毁你的一个法力水晶。,job:术士,type:随从,ablity:2
+cn_name:铸甲师,cost:2,attack:1,rare:稀有,hp:4,en_name:Armorsmith,description:每当一个友方随从受到伤害，便获得1点护甲值。,job:战士,type:随从,ablity:
+cn_name:末日守卫,cost:5,attack:5,rare:稀有,hp:7,en_name:Doomguard,description:冲锋，战吼：随机弃2张牌。,job:术士,type:随从,ablity:2
+cn_name:盾牌猛击,cost:1,attack:0,rare:史诗,hp:0,en_name:Shield Slam,description:你每有1点护甲值，便对一个随从造成1点伤害。,job:战士,type:法术,ablity:
+cn_name:扭曲虚空,cost:8,attack:0,rare:史诗,hp:0,en_name:Twisting Nether,description:消灭所有随从。,job:术士,type:法术,ablity:
+cn_name:血吼,cost:7,attack:7,rare:史诗,hp:1,en_name:Gorehowl,description:攻击随从不会消耗耐久度，改为降低1点攻击力。,job:战士,type:装备,ablity:
+cn_name:深渊领主,cost:4,attack:5,rare:史诗,hp:6,en_name:Pit Lord,description:战吼：对你的英雄造成5点伤害。,job:术士,type:随从,ablity:1
+cn_name:绝命乱斗,cost:5,attack:0,rare:史诗,hp:0,en_name:Brawl,description:随机选择一个随从，消灭除了该随从外的所有其他随从。,job:战士,type:法术,ablity:
+cn_name:末日灾祸,cost:5,attack:0,rare:史诗,hp:0,en_name:Bane of Doom,description:对一个角色造成2点伤害，如果末日灾祸杀死该角色，随机召唤一个恶魔。,job:术士,type:法术,ablity:1
+cn_name:格罗玛什·地狱咆哮,cost:8,attack:4,rare:传说,hp:9,en_name:Grom Hellscream,description:冲锋，激怒：+6攻击力,job:战士,type:随从,ablity:2
+cn_name:加拉克苏斯大王,cost:9,attack:3,rare:传说,hp:15,en_name:Lord Jaraxxus,description:战吼：消灭你的英雄，并用加拉克苏斯大王替换他。,job:术士,type:随从,ablity:1
+cn_name:熔火怒犬,cost:4,attack:4,rare:稀有,hp:4,en_name:Core Rager,description:战吼：如果没有手牌则获得+3/+3。,job:猎人,type:随从,ablity:1
+cn_name:快速射击,cost:2,attack:0,rare:普通,hp:0,en_name:Quick Shot,description:造成3点伤害，如果这是最后一张手牌，则抽一卡。,job:猎人,type:法术,ablity:1
+cn_name:眼镜蛇射击,cost:5,attack:0,rare:普通,hp:0,en_name:Cobra Shot,description:对一个敌方随从和敌方英雄造成3伤害。,job:猎人,type:法术,ablity:
+cn_name:重型刃弩,cost:2,attack:2,rare:普通,hp:2,en_name:Glaivezooka,description:战吼：使一个随机友方随从攻击力+1。,job:猎人,type:装备,ablity:1
+cn_name:金刚刃牙兽,cost:3,attack:3,rare:稀有,hp:3,en_name:Metaltooth Leaper,description:战吼：你的其他机械获得攻击力+2。,job:猎人,type:随从,ablity:1
+cn_name:召唤宠物,cost:2,attack:0,rare:稀有,hp:0,en_name:Call Pet,description:抽一张卡，如果是野兽，则费用-4。,job:猎人,type:法术,ablity:1
+cn_name:百兽之王,cost:5,attack:2,rare:稀有,hp:6,en_name:King of Beasts,description:嘲讽，战吼：你每控制一张其他野兽，便获得攻击力+1。,job:猎人,type:随从,ablity:2
+cn_name:热砂港狙击手,cost:2,attack:2,rare:史诗,hp:3,en_name:Steamwheedle Sniper,description:你的英雄技能能以随从为目标。,job:猎人,type:随从,ablity:
+cn_name:假死,cost:2,attack:0,rare:史诗,hp:0,en_name:Feign Death,description:触发所有友方随从的亡语效果。,job:猎人,type:法术,ablity:
+cn_name:结网蛛,cost:1,attack:1,rare:普通,hp:1,en_name:Webspinner,description:亡语：随机将一张野兽卡牌置入你的手牌。,job:猎人,type:随从,ablity:1
+cn_name:追踪术,cost:1,attack:0,rare:免费,hp:0,en_name:Tracking,description:查看你卡堆顶部的3张牌，抽取1张，弃掉其它2张。,job:猎人,type:法术,ablity:1
+cn_name:森林狼,cost:1,attack:1,rare:免费,hp:1,en_name:Timber Wolf,description:你的其他野兽获得+1攻击。,job:猎人,type:随从,ablity:
+cn_name:多重射击,cost:4,attack:0,rare:免费,hp:0,en_name:Multi-Shot,description:随机对2名敌对随从造成3点伤害。,job:猎人,type:法术,ablity:
+cn_name:驯兽师,cost:4,attack:4,rare:免费,hp:3,en_name:Houndmaster,description:战吼：使1个友方野兽获得+2/+2和嘲讽。,job:猎人,type:随从,ablity:2
+cn_name:奥术射击,cost:1,attack:0,rare:免费,hp:0,en_name:Arcane Shot,description:造成2点伤害。,job:猎人,type:法术,ablity:
+cn_name:关门放狗,cost:3,attack:0,rare:普通,hp:0,en_name:Unleash the Hounds,description:战场上每有一个敌方随从，便召唤一个1/1并具有冲锋的猎犬。,job:猎人,type:法术,ablity:
+cn_name:苔原犀牛,cost:5,attack:2,rare:免费,hp:5,en_name:Tundra Rhino,description:使你的野兽获得冲锋。,job:猎人,type:随从,ablity:
+cn_name:饥饿的秃鹫,cost:5,attack:3,rare:免费,hp:2,en_name:Starving Buzzard,description:你每召唤1个野兽，抽1张牌。,job:猎人,type:随从,ablity:1
+cn_name:狙击,cost:2,attack:0,rare:普通,hp:0,en_name:Snipe,description:奥秘：当对手打出1个随从时，对该随从造成4点伤害。,job:猎人,type:法术,ablity:1
+cn_name:食腐土狼,cost:2,attack:2,rare:普通,hp:2,en_name:Scavenging Hyena,description:每死1头野兽，获得+2/+1。,job:猎人,type:随从,ablity:
+cn_name:杀戮命令,cost:3,attack:0,rare:免费,hp:0,en_name:Kill Command,description:造成3点伤害。如果你有野兽，那么造成5点伤害取而代之。,job:猎人,type:法术,ablity:
+cn_name:猎人印记,cost:0,attack:0,rare:免费,hp:0,en_name:Hunter's Mark,description:在本回合内，将1个随从的生命变为1。,job:猎人,type:法术,ablity:
+cn_name:冰冻陷阱,cost:2,attack:0,rare:普通,hp:0,en_name:Freezing Trap,description:奥秘：当1个敌对随从攻击时，让其返回到所有者手中，并令其消耗增加（2）,job:猎人,type:法术,ablity:1
+cn_name:爆炸陷阱,cost:2,attack:0,rare:普通,hp:0,en_name:Explosive Trap,description:奥秘：当你的英雄受到攻击时，对所有敌人造成2点伤害。,job:猎人,type:法术,ablity:1
+cn_name:致命射击,cost:3,attack:0,rare:普通,hp:0,en_name:Deadly Shot,description:随机摧毁1个敌对随从。,job:猎人,type:法术,ablity:
+cn_name:动物伙伴,cost:3,attack:0,rare:免费,hp:0,en_name:Animal Companion,description:随机召唤1头野兽宠物。,job:猎人,type:法术,ablity:1
+cn_name:长鬃草原狮,cost:6,attack:6,rare:稀有,hp:5,en_name:Savannah Highmane,description:亡语：召唤2只2/2土狼。,job:猎人,type:随从,ablity:2
+cn_name:误导,cost:2,attack:0,rare:稀有,hp:0,en_name:Misdirection,description:奥秘：当一个角色攻击你的英雄时，让他随机攻击另外一个角色取而代之。,job:猎人,type:法术,ablity:1
+cn_name:照明弹,cost:2,attack:0,rare:稀有,hp:0,en_name:Flare,description:使所有随从失去潜行效果。摧毁敌方所有奥秘。抽1张牌。,job:猎人,type:法术,ablity:1
+cn_name:爆炸射击,cost:5,attack:0,rare:稀有,hp:0,en_name:Explosive Shot,description:对1个随从造成5点伤害，并对相邻目标造成2点伤害。,job:猎人,type:法术,ablity:
+cn_name:鹰角弓,cost:3,attack:3,rare:稀有,hp:2,en_name:Eaglehorn Bow,description:每触发1个奥秘，获得+1耐久。,job:猎人,type:装备,ablity:
+cn_name:毒蛇陷阱,cost:2,attack:0,rare:史诗,hp:0,en_name:Snake Trap,description:奥秘：当你的1个随从遭到攻击时，召唤3条1/1毒蛇。,job:猎人,type:法术,ablity:1
+cn_name:角斗士的长弓,cost:7,attack:5,rare:史诗,hp:2,en_name:Gladiator's Longbow,description:你的英雄在攻击时具有免疫。,job:猎人,type:装备,ablity:
+cn_name:狂野怒火,cost:1,attack:0,rare:史诗,hp:0,en_name:Bestial Wrath,description:在本回合内，使1个野兽获得+2攻击和免疫。,job:猎人,type:法术,ablity:
+cn_name:暴龙王克鲁什,cost:9,attack:8,rare:传说,hp:8,en_name:King Krush,description:冲锋,job:猎人,type:随从,ablity:1
+cn_name:严正警戒,cost:5,attack:0,rare:普通,hp:0,en_name:Solemn Vigil,description:抽两张牌：每当一张随从在本回合死亡，则费用-1。,job:圣骑士,type:法术,ablity:1
+cn_name:护盾机器人,cost:2,attack:2,rare:普通,hp:2,en_name:Shielded Minibot,description:圣盾,job:圣骑士,type:随从,ablity:1
+cn_name:光明圣印,cost:2,attack:0,rare:普通,hp:0,en_name:Seal of Light,description:为你的英雄回复4点生命，并获得2点攻击力。,job:圣骑士,type:法术,ablity:
+cn_name:作战动员,cost:3,attack:0,rare:稀有,hp:0,en_name:Muster for Battle,description:召唤3个1/1的白银之手新兵，装备一把1/4的武器。,job:圣骑士,type:法术,ablity:1
+cn_name:钴制卫士,cost:5,attack:6,rare:稀有,hp:3,en_name:Cobalt Guardian,description:每当你召唤一个机械，便获得圣盾。,job:圣骑士,type:随从,ablity:
+cn_name:血色净化者,cost:3,attack:4,rare:稀有,hp:3,en_name:Scarlet Purifier,description:战吼：对所有具有亡语的随从造成2点伤害。,job:圣骑士,type:随从,ablity:1
+cn_name:复仇,cost:1,attack:0,rare:普通,hp:0,en_name:Avenge,description:奥秘：当你的随从死亡时，使一个随机友方随从获得+3/+2。,job:圣骑士,type:法术,ablity:1
+cn_name:圣光的正义,cost:1,attack:4,rare:免费,hp:0,en_name:Light's Justice,description:,job:圣骑士,type:装备,ablity:
+cn_name:圣光术,cost:2,attack:0,rare:免费,hp:0,en_name:Holy Light,description:恢复6点生命值。,job:圣骑士,type:法术,ablity:
+cn_name:保护之手,cost:1,attack:0,rare:免费,hp:0,en_name:Hand of Protection,description:使一个随从获得圣盾。,job:圣骑士,type:法术,ablity:
+cn_name:愤怒之锤,cost:4,attack:0,rare:免费,hp:0,en_name:Hammer of Wrath,description:造成3点伤害，抽一张牌。,job:圣骑士,type:法术,ablity:1
+cn_name:力量祝福,cost:1,attack:0,rare:免费,hp:0,en_name:Blessing of Might,description:使一个随从获得+3攻击力。,job:圣骑士,type:法术,ablity:
+cn_name:真银圣剑,cost:4,attack:4,rare:免费,hp:0,en_name:Truesilver Champion,description:每当你的英雄进攻时，为其恢复2点生命值。,job:圣骑士,type:装备,ablity:
+cn_name:忏悔,cost:1,attack:0,rare:普通,hp:0,en_name:Repentance,description:奥秘：当你的对手召唤一个随从，使该随从的生命值降为1。,job:圣骑士,type:法术,ablity:1
+cn_name:熔岩震击,cost:2,attack:0,rare:稀有,hp:0,en_name:Lava Shock,description:造成2点伤害并清除所有的过载。,job:萨满,type:法术,ablity:
+cn_name:救赎,cost:1,attack:0,rare:普通,hp:0,en_name:Redemption,description:奥秘：当一个你的随从死亡时，使其回到战场，并具有1点生命值。,job:圣骑士,type:法术,ablity:1
+cn_name:火焰驱逐者,cost:4,attack:3,rare:普通,hp:6,en_name:Fireguard Destroyer,description:战吼：获得1-4点攻击力，过载1。,job:萨满,type:随从,ablity:1
+cn_name:崇高牺牲 ,cost:1,attack:0,rare:普通,hp:0,en_name:Noble Sacrifice,description:奥秘：每当一个敌人攻击时，召唤一个2/1的防御者，并使其成为攻击的目标。,job:圣骑士,type:法术,ablity:1
+cn_name:自动漩涡打击装置,cost:2,attack:3,rare:普通,hp:2,en_name:Whirling Zap-o-matic,description:风怒,job:萨满,type:随从,ablity:1
+cn_name:谦逊,cost:1,attack:0,rare:免费,hp:0,en_name:Humility,description:使一个随从的攻击力变为1。,job:圣骑士,type:法术,ablity:
+cn_name:连环爆裂,cost:2,attack:0,rare:普通,hp:0,en_name:Crackle,description:造成3-6点伤害，过载1。,job:萨满,type:法术,ablity:1
+cn_name:列王守卫,cost:7,attack:5,rare:免费,hp:6,en_name:Guardian of Kings,description:战吼：为你的英雄恢复6点生命值。,job:圣骑士,type:随从,ablity:1
+cn_name:活力图腾,cost:2,attack:0,rare:稀有,hp:3,en_name:Vitality Totem,description:在你回合结束时，为你的英雄恢复4血,job:萨满,type:随从,ablity:
+cn_name:以眼还眼,cost:1,attack:0,rare:普通,hp:0,en_name:Eye for an Eye,description:奥秘：每当你的英雄受到伤害时，对敌方英雄造成等量的伤害。,job:圣骑士,type:法术,ablity:1
+cn_name:动力战锤,cost:3,attack:3,rare:稀有,hp:2,en_name:Powermace,description:亡语：给一个随机机械随从+2/+2,job:萨满,type:装备,ablity:1
+cn_name:奉献,cost:4,attack:0,rare:免费,hp:0,en_name:Consecration,description:对所有敌人造成2点伤害。,job:圣骑士,type:法术,ablity:
+cn_name:砂槌萨满祭司,cost:4,attack:5,rare:稀有,hp:4,en_name:Dunemaul Shaman,description:风怒，过载1,50%几率打到错误的敌方目标。,job:萨满,type:随从,ablity:2
+cn_name:智慧祝福,cost:1,attack:0,rare:普通,hp:0,en_name:Blessing of Wisdom,description:选择一个随从，每当它进行攻击时，抽一张牌。,job:圣骑士,type:法术,ablity:1
+cn_name:王者祝福,cost:4,attack:0,rare:免费,hp:0,en_name:Blessing of Kings,description:使一个随从获得+4/+4。（+4攻击力/+4生命值）,job:圣骑士,type:法术,ablity:
+cn_name:转生,cost:2,attack:0,rare:普通,hp:0,en_name:Reincarnate,description:消灭一个随从，然后将其复活，并恢复所有生命值。,job:萨满,type:法术,ablity:
+cn_name:银色保卫者,cost:2,attack:2,rare:普通,hp:2,en_name:Argent Protector,description:战吼：使一个友方随从获得圣盾。,job:圣骑士,type:随从,ablity:2
+cn_name:神圣愤怒,cost:5,attack:0,rare:稀有,hp:0,en_name:Holy Wrath,description:抽一张牌，并造成等同于其法力值消耗的伤害。,job:圣骑士,type:法术,ablity:1
+cn_name:风怒,cost:2,attack:0,rare:免费,hp:0,en_name:Windfury,description:使一个随从获得风怒。,job:萨满,type:法术,ablity:
+cn_name:生而平等,cost:2,attack:0,rare:稀有,hp:0,en_name:Equality,description:将所有随从的生命值变为1。,job:圣骑士,type:法术,ablity:
+cn_name:石化武器,cost:1,attack:0,rare:免费,hp:0,en_name:Rockbiter Weapon,description:在本回合中，使一个友方角色获得+3攻击力。,job:萨满,type:法术,ablity:
+cn_name:神恩术,cost:3,attack:0,rare:稀有,hp:0,en_name:Divine Favor,description:抽若干数量的牌，直到你的手牌数量等同于你的对手的手牌数量。,job:圣骑士,type:法术,ablity:1
+cn_name:妖术,cost:3,attack:0,rare:免费,hp:0,en_name:Hex,description:使一个随从变形成为一个0/1并具有嘲讽的青蛙。,job:萨满,type:法术,ablity:
+cn_name:受祝福的勇士 ,cost:5,attack:0,rare:稀有,hp:0,en_name:Blessed Champion,description:使一个随从的攻击力翻倍。,job:圣骑士,type:法术,ablity:
+cn_name:冰霜震击,cost:1,attack:0,rare:免费,hp:0,en_name:Frost Shock,description:对一个敌方角色造成1点伤害，并使其冻结。,job:萨满,type:法术,ablity:
+cn_name:奥尔多卫士,cost:3,attack:3,rare:稀有,hp:3,en_name:Aldor Peacekeeper,description:战吼：使一个敌方随从的攻击力变为1。,job:圣骑士,type:随从,ablity:1
+cn_name:先祖治疗,cost:0,attack:0,rare:免费,hp:0,en_name:Ancestral Healing,description:为一个随从恢复所有生命值并使其获得嘲讽。,job:萨满,type:法术,ablity:
+cn_name:公正之剑,cost:3,attack:1,rare:史诗,hp:0,en_name:Sword of Justice,description:每当你召唤一个随从，使它获得+1/+1，这把武器失去1点耐久度。,job:圣骑士,type:装备,ablity:
+cn_name:风语者,cost:4,attack:3,rare:免费,hp:3,en_name:Windspeaker,description:战吼：使一个友方随从获得风怒。,job:萨满,type:随从,ablity:1
+cn_name:圣疗术,cost:8,attack:0,rare:史诗,hp:0,en_name:Lay on Hands,description:恢复8点生命。抽3张牌。,job:圣骑士,type:法术,ablity:1
+cn_name:无羁元素,cost:3,attack:2,rare:普通,hp:4,en_name:Unbound Elemental,description:每当你使用一张具有过载的牌，便获得+1/+1。,job:萨满,type:随从,ablity:
+cn_name:复仇之怒,cost:6,attack:0,rare:史诗,hp:0,en_name:Avenging Wrath,description:造成8点伤害，随机分配给敌方角色。,job:圣骑士,type:法术,ablity:
+cn_name:图腾之力,cost:0,attack:0,rare:免费,hp:0,en_name:Totemic Might,description:使你的图腾获得+2生命值。,job:萨满,type:法术,ablity:
+cn_name:提里奥·弗丁,cost:8,attack:6,rare:传说,hp:6,en_name:Tirion Fordring,description:圣盾，嘲讽，亡语：装备一把5/3的灰烬使者。,job:圣骑士,type:随从,ablity:3
+cn_name:雷铸战斧,cost:2,attack:2,rare:普通,hp:3,en_name:Stormforged Axe,description:过载：（1）,job:萨满,type:装备,ablity:1
+cn_name:闪电箭,cost:1,attack:0,rare:普通,hp:0,en_name:Lightning Bolt,description:造成3点伤害，过载：（1）,job:萨满,type:法术,ablity:1
+cn_name:叉状闪电,cost:1,attack:0,rare:普通,hp:0,en_name:Forked Lightning,description:对2个随机敌方随从造成2点伤害，过载：（2）,job:萨满,type:法术,ablity:1
+cn_name:火舌图腾,cost:2,attack:0,rare:免费,hp:3,en_name:Flametongue Totem,description:相邻的随从获得+2攻击力。,job:萨满,type:随从,ablity:
+cn_name:火元素,cost:6,attack:6,rare:免费,hp:5,en_name:Fire Elemental,description:战吼：造成3点伤害。,job:萨满,type:随从,ablity:1
+cn_name:大地震击,cost:1,attack:0,rare:普通,hp:0,en_name:Earth Shock,description:沉默一个随从，然后对其造成1点伤害。,job:萨满,type:法术,ablity:1
+cn_name:尘魔,cost:1,attack:3,rare:普通,hp:4,en_name:Dust Devil,description:风怒，过载：（2）,job:萨满,type:随从,ablity:2
+cn_name:嗜血,cost:5,attack:0,rare:免费,hp:0,en_name:Bloodlust,description:在本回合中，使你的随从获得+3攻击力。,job:萨满,type:法术,ablity:
+cn_name:法力之潮图腾,cost:3,attack:0,rare:稀有,hp:3,en_name:Mana Tide Totem,description:在你的回合结束时，抽一张牌。,job:萨满,type:随从,ablity:1
+cn_name:闪电风暴,cost:3,attack:0,rare:稀有,hp:0,en_name:Lightning Storm,description:对所有敌方随从造成2到3点伤害，过载：（2）,job:萨满,type:法术,ablity:1
+cn_name:熔岩爆裂,cost:3,attack:0,rare:稀有,hp:0,en_name:Lava Burst,description:造成5点伤害，过载：（2）,job:萨满,type:法术,ablity:1
+cn_name:野性狼魂,cost:3,attack:0,rare:稀有,hp:0,en_name:Feral Spirit,description:召唤2个2/3并具有嘲讽的幽灵狼。过载：（2）,job:萨满,type:法术,ablity:2
+cn_name:先祖之魂,cost:2,attack:0,rare:稀有,hp:0,en_name:Ancestral Spirit,description:选择一个随从，当该随从被消灭时，它将返回战场。,job:萨满,type:法术,ablity:
+cn_name:视界术,cost:3,attack:0,rare:史诗,hp:0,en_name:Far Sight,description:抽一张牌，该牌的法力值消耗减少（3）点。,job:萨满,type:法术,ablity:1
+cn_name:土元素,cost:5,attack:7,rare:史诗,hp:8,en_name:Earth Elemental,description:嘲讽，过载：（3）,job:萨满,type:随从,ablity:2
+cn_name:毁灭之锤,cost:5,attack:2,rare:史诗,hp:8,en_name:Doomhammer,description:风怒，过载：（2）,job:萨满,type:装备,ablity:2
+cn_name:风领主奥拉基尔,cost:8,attack:3,rare:传说,hp:5,en_name:Al'Akir the Windlord,description:风怒，冲锋，圣盾，嘲讽,job:萨满,type:随从,ablity:4
+cn_name:火山邪树,cost:9,attack:7,rare:稀有,hp:8,en_name:Volcanic Lumberer,description:本回合每当一个随从死亡，他的费用减少1。,job:德鲁伊,type:随从,ablity:1
+cn_name:烈焰德鲁伊,cost:3,attack:2,rare:普通,hp:2,en_name:Druid of the Flame,description:抉择：将该随从变形成5/2或者2/5。,job:德鲁伊,type:随从,ablity:1
+cn_name:尖牙德鲁伊,cost:5,attack:4,rare:普通,hp:4,en_name:Druid of the Fang,description:战吼：如果你控制任何野兽，将该随从变成7/7。,job:德鲁伊,type:随从,ablity:1
+cn_name:电镀机械熊仔,cost:2,attack:2,rare:普通,hp:2,en_name:Anodized Robo Cub,description:嘲讽，抉择+1攻击力或者+1生命值。,job:德鲁伊,type:随从,ablity:2
+cn_name:回收,cost:6,attack:0,rare:稀有,hp:0,en_name:Recycle,description:将一个敌方随从洗回你对手的牌库。,job:德鲁伊,type:法术,ablity:
+cn_name:机械野兽,cost:6,attack:7,rare:稀有,hp:6,en_name:Mech Bear Cat,description:每当该随从受到伤害，将一个零件加入你的手牌。,job:德鲁伊,type:随从,ablity:
+cn_name:林地树妖,cost:3,attack:2,rare:稀有,hp:4,en_name:Grove Tender,description:抉择：使每个玩家获得一个法力水晶或者每个玩家抽一张牌。,job:德鲁伊,type:随从,ablity:2
+cn_name:黑暗低语者,cost:6,attack:0,rare:史诗,hp:0,en_name:Dark Wispers,description:抉择：召唤5个小精灵或者使一个随从+5/+5。,job:德鲁伊,type:法术,ablity:2
+cn_name:生命之树,cost:9,attack:0,rare:史诗,hp:0,en_name:Tree of Life,description:为所有角色恢复所有生命。,job:德鲁伊,type:法术,ablity:
+cn_name:剧毒之种,cost:4,attack:0,rare:普通,hp:0,en_name:Poison Seed,description:消灭所有随从，并召唤等量的2/2的树人代替他们。,job:德鲁伊,type:法术,ablity:
+cn_name:野性成长,cost:2,attack:0,rare:免费,hp:0,en_name:Wild Growth,description:获得一颗空的法力水晶。,job:德鲁伊,type:法术,ablity:
+cn_name:野性印记,cost:2,attack:0,rare:免费,hp:0,en_name:Mark of the Wild,description:使1个随从获得嘲讽以及+2/+2。（+2攻击/+2生命）,job:德鲁伊,type:法术,ablity:1
+cn_name:激活,cost:0,attack:0,rare:免费,hp:0,en_name:Innervate,description:仅在本回合中，获得2个法力水晶。,job:德鲁伊,type:法术,ablity:
+cn_name:月火术,cost:0,attack:0,rare:免费,hp:0,en_name:Moonfire,description:造成1点伤害。,job:德鲁伊,type:法术,ablity:
+cn_name:爪击,cost:1,attack:0,rare:免费,hp:0,en_name:Claw,description:使你的英雄获得2点护甲值，并在本回合中获得+2攻击力。,job:德鲁伊,type:法术,ablity:
+cn_name:治疗之触,cost:3,attack:0,rare:免费,hp:0,en_name:Healing Touch,description:恢复8点生命值。,job:德鲁伊,type:法术,ablity:
+cn_name:野蛮咆哮,cost:3,attack:0,rare:免费,hp:0,en_name:Savage Roar,description:在本回合中，使你的所有角色获得+2攻击力。,job:德鲁伊,type:法术,ablity:
+cn_name:横扫,cost:4,attack:0,rare:免费,hp:0,en_name:Swipe,description:对一个敌人造成4点伤害，并对所有其他敌人造成1点伤害。,job:德鲁伊,type:法术,ablity:
+cn_name:星火术,cost:6,attack:0,rare:免费,hp:0,en_name:Starfire,description:造成5点伤害，抽1张牌。,job:德鲁伊,type:法术,ablity:1
+cn_name:埃隆巴克保护者 ,cost:8,attack:8,rare:免费,hp:8,en_name:Ironbark Protector,description:嘲讽,job:德鲁伊,type:随从,ablity:1
+cn_name:丛林之魂,cost:4,attack:0,rare:普通,hp:0,en_name:Soul of the Forest,description:使你的随从获得“亡语：召唤一个2/2的树人。”,job:德鲁伊,type:法术,ablity:2
+cn_name:野性之力,cost:2,attack:0,rare:普通,hp:0,en_name:Power of the Wild,description:抉择：使你的随从获得+1/+1；或者召唤一个3/2的猎豹。,job:德鲁伊,type:法术,ablity:1
+cn_name:自然平衡,cost:1,attack:0,rare:普通,hp:0,en_name:Naturalize,description:消灭一个随从，你的对手抽两张牌。,job:德鲁伊,type:法术,ablity:1
+cn_name:利爪德鲁伊,cost:5,attack:4,rare:普通,hp:4,en_name:Druid of the Claw,description:抉择：冲锋；或者+2生命值并具有嘲讽。,job:德鲁伊,type:随从,ablity:1
+cn_name:愤怒,cost:2,attack:0,rare:普通,hp:0,en_name:Wrath,description:抉择：对一个随从造成3点伤害；或者造成1点伤害并抽一张牌。,job:德鲁伊,type:法术,ablity:1
+cn_name:自然印记,cost:3,attack:0,rare:普通,hp:0,en_name:Mark of Nature,description:抉择：使一个随从获得+4攻击力；或者+4生命值并具有嘲讽。,job:德鲁伊,type:法术,ablity:1
+cn_name:星辰坠落,cost:5,attack:0,rare:稀有,hp:0,en_name:Starfall,description:抉择：对一个随从造成5点伤害；或者对所有敌方随从造成2点伤害。,job:德鲁伊,type:法术,ablity:1
+cn_name:滋养,cost:5,attack:0,rare:稀有,hp:0,en_name:Nourish,description:抉择：获得2个法力水晶；或者抽3张牌。,job:德鲁伊,type:法术,ablity:1
+cn_name:野蛮之击,cost:1,attack:0,rare:稀有,hp:0,en_name:Savagery,description:对一个随从造成等同于你的英雄攻击力的伤害。,job:德鲁伊,type:法术,ablity:
+cn_name:丛林守护者,cost:4,attack:2,rare:稀有,hp:4,en_name:Keeper of the Grove,description:抉择：造成2点伤害；或者沉默一个随从。,job:德鲁伊,type:随从,ablity:1
+cn_name:撕咬,cost:4,attack:0,rare:稀有,hp:0,en_name:Bite,description:在本回合中，使你的英雄获得+4攻击力和4点护甲值。,job:德鲁伊,type:法术,ablity:
+cn_name:自然之力,cost:6,attack:0,rare:史诗,hp:0,en_name:Force of Nature,description:召唤3个2/2并具有冲锋的树人，在回合结束时，消灭这些树人。,job:德鲁伊,type:法术,ablity:1
+cn_name:战争古树,cost:7,attack:5,rare:史诗,hp:5,en_name:Ancient of War,description:抉择：+5生命值并具有嘲讽；或者+5攻击力。,job:德鲁伊,type:随从,ablity:1
+cn_name:知识古树,cost:7,attack:5,rare:史诗,hp:5,en_name:Ancient of Lore,description:抉择：抽2张牌；或恢复5点生命值。,job:德鲁伊,type:随从,ablity:1
+cn_name:塞纳留斯,cost:9,attack:5,rare:传说,hp:8,en_name:Cenarius,description:抉择：使你的所有其他随从获得+2/+2；或者召唤2个2/2并具有嘲讽的树人。,job:德鲁伊,type:随从,ablity:1
+cn_name:赛场观众,cost:1,attack:2,rare:普通,hp:1,en_name:Tournament Attendee,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:白骨卫士军官,cost:2,attack:3,rare:普通,hp:2,en_name:Boneguard Lieutenant,description:激励：获得1点生命。,job:中立,type:随从,ablity:1
+cn_name:冰霜暴怒者,cost:3,attack:5,rare:普通,hp:2,en_name:Ice Rager,description:,job:中立,type:随从,ablity:
+cn_name:龙鹰骑士,cost:3,attack:3,rare:普通,hp:3,en_name:Dragonhawk Rider,description:激励：此卡获得风怒,job:中立,type:随从,ablity:1
+cn_name:邪灵拷问者,cost:4,attack:5,rare:普通,hp:4,en_name:Evil Heckler,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:零食商贩,cost:4,attack:3,rare:普通,hp:5,en_name:Refreshment Vendor,description:战吼：双方英雄各恢复4点血量。,job:中立,type:随从,ablity:1
+cn_name:雪地狗头人,cost:4,attack:2,rare:普通,hp:6,en_name:Frigid Snobold,description:法强+1,job:中立,type:随从,ablity:1
+cn_name:格斗士,cost:5,attack:5,rare:普通,hp:6,en_name:Pit Fighter,description:,job:中立,type:随从,ablity:
+cn_name:克瓦迪尔劫掠者,cost:5,attack:4,rare:普通,hp:4,en_name:Kvaldir Raider,description:激励：此卡获得+2+2,job:中立,type:随从,ablity:1
+cn_name:俘获的冰虫,cost:7,attack:5,rare:普通,hp:9,en_name:Captured Jormungar,description:,job:中立,type:随从,ablity:
+cn_name:加基森枪骑士,cost:1,attack:1,rare:普通,hp:2,en_name:Gadgetzan Jouster,description:战吼：显示出双方卡组中的一个随从。如果你的随从费用更高，获得+1/+1,job:中立,type:随从,ablity:1
+cn_name:持枪侍从,cost:2,attack:1,rare:普通,hp:2,en_name:Lance Bearer,description:战吼：一个友方随从+2攻击力。,job:中立,type:随从,ablity:1
+cn_name:火焰杂耍者,cost:2,attack:2,rare:普通,hp:3,en_name:Flame Juggler,description:战吼：对一个随机敌人造成1点伤害。,job:中立,type:随从,ablity:1
+cn_name:银色骑兵,cost:3,attack:2,rare:普通,hp:1,en_name:Argent Horserider,description:冲锋，圣盾,job:中立,type:随从,ablity:2
+cn_name:沉默的骑士,cost:3,attack:2,rare:普通,hp:3,en_name:Silent Knight,description:潜行，圣盾,job:中立,type:随从,ablity:2
+cn_name:赛场医师,cost:4,attack:1,rare:普通,hp:8,en_name:Tournament Medic,description:激励：为你的英雄恢复2点生命。,job:中立,type:随从,ablity:1
+cn_name:发条骑士,cost:5,attack:5,rare:普通,hp:5,en_name:Clockwork Knight,description:战吼：给一个友方机械获得+1/+1。,job:中立,type:随从,ablity:1
+cn_name:穆克拉的勇士,cost:5,attack:4,rare:普通,hp:3,en_name:Mukla's Champion,description:激励：你的其他随从获得+1/+1。,job:中立,type:随从,ablity:1
+cn_name:低阶侍从,cost:1,attack:1,rare:普通,hp:2,en_name:Lowly Squire,description:激励：攻击力加1。,job:中立,type:随从,ablity:1
+cn_name:白银之手教官,cost:3,attack:3,rare:普通,hp:3,en_name:Silver Hand Regent,description:激励：召唤一个1/1白银之手新兵。,job:中立,type:随从,ablity:2
+cn_name:湖之仙女,cost:4,attack:2,rare:普通,hp:6,en_name:Maiden of the Lake,description:你的英雄技能费用变成1。,job:中立,type:随从,ablity:
+cn_name:北海海怪,cost:9,attack:9,rare:普通,hp:7,en_name:North Sea Kraken,description:战吼：造成4点伤害。,job:中立,type:随从,ablity:1
+cn_name:活动假人,cost:0,attack:0,rare:稀有,hp:2,en_name:Target Dummy,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:小精灵,cost:0,attack:1,rare:普通,hp:1,en_name:Wisp,description:,job:中立,type:随从,ablity:
+cn_name:齿轮大师,cost:1,attack:1,rare:普通,hp:2,en_name:Cogmaster,description:如果你控制任何机械单位，便获得+2的攻击力。,job:中立,type:随从,ablity:
+cn_name:发条侏儒,cost:1,attack:2,rare:普通,hp:1,en_name:Clockwork Gnome,description:亡语：将一张零件牌置入你的手牌。,job:中立,type:随从,ablity:1
+cn_name:肉用僵尸,cost:1,attack:2,rare:普通,hp:3,en_name:Zombie Chow,description:亡语：为敌方的英雄恢复5点生命值,job:中立,type:随从,ablity:1
+cn_name:送葬者,cost:1,attack:1,rare:普通,hp:2,en_name:Undertaker,description:每当你召唤一个具有亡语的随从，便获得+1/+1。,job:中立,type:随从,ablity:
+cn_name:幼龙鹰,cost:1,attack:1,rare:普通,hp:1,en_name:Young Dragonhawk,description:风怒,job:中立,type:随从,ablity:1
+cn_name:狼人渗透者,cost:1,attack:2,rare:普通,hp:1,en_name:Worgen Infiltrator,description:潜行,job:中立,type:随从,ablity:1
+cn_name:南海船工 ,cost:1,attack:2,rare:普通,hp:1,en_name:Southsea Deckhand,description:当你装备一把武器时，该随从获得冲锋。,job:中立,type:随从,ablity:
+cn_name:火山幼龙,cost:6,attack:6,rare:普通,hp:4,en_name:Volcanic Drake,description:每当本回合有一张随从死亡，则获得此卡消耗-1。,job:中立,type:随从,ablity:
+cn_name:龙人打击者,cost:6,attack:6,rare:普通,hp:6,en_name:Drakonid Crusher,description:战吼：如果你的对手英雄生命小于15，则获得+3/+3。,job:中立,type:随从,ablity:1
+cn_name:黒翼腐蚀者,cost:5,attack:5,rare:普通,hp:4,en_name:Blackwing Corruptor,description:战吼：如果你手牌上有龙族，则造成3点伤害。,job:中立,type:随从,ablity:1
+cn_name:饥饿的巨龙,cost:4,attack:5,rare:普通,hp:6,en_name:Hungry Dragon,description:战吼：为你的敌人早换一只法力为1的随机随从。,job:中立,type:随从,ablity:1
+cn_name:龙人巫师,cost:4,attack:3,rare:普通,hp:5,en_name:Dragonkin Sorcerer,description:每当你以此卡为目标使用法术的时候，则获得+1/+1。,job:中立,type:随从,ablity:
+cn_name:黒翼技师,cost:3,attack:2,rare:普通,hp:4,en_name:Blackwing Technician,description:战吼：如果你手牌上有龙族，则获得+1/+1。,job:中立,type:随从,ablity:1
+cn_name:工匠镇技师,cost:3,attack:3,rare:普通,hp:3,en_name:Tinkertown Technician,description:战吼：如果你控制一个机械，便获得+1/+1并将一张零件牌置入你的手牌。,job:中立,type:随从,ablity:1
+cn_name:碎石穴居人,cost:2,attack:2,rare:普通,hp:3,en_name:Stonesplinter Trogg,description:每当你的对手施放一个法术，便获得+1攻击力。,job:中立,type:随从,ablity:
+cn_name:蜘蛛坦克,cost:3,attack:3,rare:普通,hp:4,en_name:Spider Tank,description:,job:中立,type:随从,ablity:
+cn_name:船载火炮,cost:2,attack:2,rare:普通,hp:3,en_name:Ship's Cannon,description:每当你召唤一个海盗，便对一个随机敌人造成2点伤害。,job:中立,type:随从,ablity:
+cn_name:熟练的水手,cost:5,attack:7,rare:普通,hp:4,en_name:Salty Dog,description:,job:中立,type:随从,ablity:
+cn_name:淤泥践踏者,cost:2,attack:3,rare:普通,hp:2,en_name:Puddlestomper,description:,job:中立,type:随从,ablity:
+cn_name:载人收割机,cost:4,attack:4,rare:普通,hp:3,en_name:Piloted Shredder,description:亡语：增加召唤一个法力值消耗为（2）点的随从。,job:中立,type:随从,ablity:1
+cn_name:食人魔步兵,cost:3,attack:4,rare:普通,hp:4,en_name:Ogre Brute,description:50%几率攻击错误的敌人。,job:中立,type:随从,ablity:
+cn_name:微型战斗机甲,cost:2,attack:1,rare:普通,hp:2,en_name:Micro Machine,description:在每个回合开始时，获得+1的攻击力。,job:中立,type:随从,ablity:
+cn_name:机械迁越者,cost:2,attack:2,rare:普通,hp:3,en_name:Mechwarper,description:你的机械单位的法力消耗减少（1）点。,job:中立,type:随从,ablity:
+cn_name:机械雪人,cost:4,attack:4,rare:普通,hp:5,en_name:Mechanical Yeti,description:亡语：使每个玩家获得一个零件。,job:中立,type:随从,ablity:1
+cn_name:诺莫瑞根步兵,cost:3,attack:1,rare:普通,hp:4,en_name:Gnomeregan Infantry,description:冲锋，嘲讽,job:中立,type:随从,ablity:2
+cn_name:迷失的陆行鸟,cost:4,attack:5,rare:普通,hp:4,en_name:Lost Tallstrider,description:,job:中立,type:随从,ablity:
+cn_name:海地精猎手,cost:2,attack:2,rare:普通,hp:3,en_name:Gilblin Stalker,description:潜行,job:中立,type:随从,ablity:1
+cn_name:飞行器,cost:3,attack:1,rare:普通,hp:4,en_name:Flying Machine,description:风怒,job:中立,type:随从,ablity:1
+cn_name:,cost:  ,attack:  ,rare:  ,hp:  ,en_name:  ,description: ,job:  ,type:  ,ablity:  
+cn_name:自爆绵羊,cost:2,attack:1,rare:普通,hp:1,en_name:Explosive Sheep,description:亡语：对所有随从造成2点伤害。,job:中立,type:随从,ablity:1
+cn_name:石腭穴居人壮汉,cost:4,attack:3,rare:普通,hp:5,en_name:Burly Rockjaw Trogg,description:每当你的对手施放一个法术，获得+2攻击力。,job:中立,type:随从,ablity:
+cn_name:老式治疗机器人,cost:5,attack:3,rare:普通,hp:3,en_name:Antique Healbot,description:战吼：为你的英雄恢复8点生命值。,job:中立,type:随从,ablity:1
+cn_name:,cost:  ,attack:  ,rare:  ,hp:  ,en_name:  ,description: ,job:  ,type:  ,ablity:  
+cn_name:疯狂爆破者,cost:5,attack:5,rare:稀有,hp:4,en_name:Madder Bomber,description:战吼：造成6点伤害，随机分配于其他角色身上。,job:中立,type:随从,ablity:1
+cn_name:小个子驱魔者,cost:3,attack:2,rare:稀有,hp:3,en_name:Lil Exorcist,description:嘲讽、战吼：每有一个具有亡语的敌方随从，便获得+1/+1。,job:中立,type:随从,ablity:2
+cn_name:科赞秘术师,cost:4,attack:4,rare:稀有,hp:3,en_name:Kezan Mystic,description:战吼：随机控制一个敌方的奥秘。,job:中立,type:随从,ablity:1
+cn_name:基维斯,cost:4,attack:1,rare:稀有,hp:4,en_name:Jeeves,description:在每个玩家的回合结束时，该玩家抽若干牌，直至其手牌数量达到3张。,job:中立,type:随从,ablity:
+cn_name:明光祭祀,cost:3,attack:2,rare:稀有,hp:4,en_name:Illuminator,description:如果在你的回合结束时，你控制任何奥秘，则为你的英雄恢复4点生命值。,job:中立,type:随从,ablity:
+cn_name:地精工兵,cost:3,attack:2,rare:稀有,hp:4,en_name:Goblin Sapper,description:如果你的对手的手牌数量等于或大于6张，便具有+4攻击力。,job:中立,type:随从,ablity:
+cn_name:侏儒实验技师,cost:3,attack:3,rare:稀有,hp:2,en_name:Gnomish Experimenter,description:战吼：抽一张牌，如果该牌是随从牌，则将其变形成一只小鸡。,job:中立,type:随从,ablity:1
+cn_name:榴弹投手,cost:5,attack:3,rare:稀有,hp:3,en_name:Bomb Lobber,description:战吼：对一个随机敌方随从造成4点伤害。,job:中立,type:随从,ablity:1
+cn_name:,cost:  ,attack:  ,rare:  ,hp:  ,en_name:  ,description: ,job:  ,type:  ,ablity:  
+cn_name:蹒跚的食尸鬼,cost:2,attack:1,rare:普通,hp:3,en_name:Unstable Ghoul,description:嘲讽，亡语：对所有随从造成1点伤害。,job:中立,type:随从,ablity:2
+cn_name:尼鲁巴蛛网领主,cost:2,attack:1,rare:普通,hp:4,en_name:Nerub'ar Weblord,description:具有战吼的随从法力值消耗增加（2）点。,job:中立,type:随从,ablity:
+cn_name:鬼灵爬行者,cost:2,attack:1,rare:普通,hp:2,en_name:Haunted Creeper,description:亡语：召唤两个1/1的鬼灵蜘蛛。,job:中立,type:随从,ablity:1
+cn_name:鬼灵骑士,cost:5,attack:4,rare:普通,hp:6,en_name:Spectral Knight,description:无法成为法术或英雄技能的目标。,job:中立,type:随从,ablity:
+cn_name:岩肤石像鬼,cost:3,attack:1,rare:普通,hp:4,en_name:Stoneskin Gargoyle,description:在你的回合开始时，为该随从恢复所有生命值。,job:中立,type:随从,ablity:
+cn_name:疯狂的科学家,cost:2,attack:2,rare:普通,hp:2,en_name:Mad Scientist,description:亡语：将一个奥秘从你的牌库置入战场。,job:中立,type:随从,ablity:1
+cn_name:舞动之刃,cost:3,attack:4,rare:普通,hp:4,en_name:Dancing Swords,description:亡语：你的对手抽一张牌。,job:中立,type:随从,ablity:1
+cn_name:蛛魔之卵,cost:2,attack:0,rare:稀有,hp:2,en_name:Nerubian Egg,description:亡语：召唤一个4/4的蛛魔。,job:中立,type:随从,ablity:1
+cn_name:哀嚎的灵魂,cost:4,attack:3,rare:稀有,hp:5,en_name:Waiking Soul,description:战吼：沉默你的其他随从。,job:中立,type:随从,ablity:1
+cn_name:死亡领主,cost:3,attack:2,rare:稀有,hp:8,en_name:Deathlord,description:嘲讽，亡语：你的对手将一个随从从其牌库置入战场。,job:中立,type:随从,ablity:2
+cn_name:淤泥喷射者,cost:5,attack:3,rare:稀有,hp:5,en_name:Sludge Belcher,description:嘲讽，亡语：召唤一个1/2并具有嘲讽的泥浆怪。,job:中立,type:随从,ablity:2
+cn_name:纳克萨玛斯之影,cost:3,attack:2,rare:史诗,hp:2,en_name:Shade of Naxxramas,description:潜行。在你的回合开始时，获得+1/+1。,job:中立,type:随从,ablity:1
+cn_name:分裂软泥怪,cost:2,attack:1,rare:史诗,hp:2,en_name:Echoing Ooze,description:战吼：在回合结束时召唤一个该随从的复制。,job:中立,type:随从,ablity:1
+cn_name:血色十字军战士 ,cost:3,attack:3,rare:普通,hp:1,en_name:Scarlet Crusader,description:圣盾,job:中立,type:随从,ablity:1
+cn_name:克尔苏加德,cost:8,attack:6,rare:传说,hp:8,en_name:Kel'Thuzad,description:在每个回合结束时，召唤所有在本回合中死亡的友方随从。,job:中立,type:随从,ablity:
+cn_name:暴怒的狼人,cost:3,attack:3,rare:普通,hp:3,en_name:Raging Worgen,description:激怒：+1攻击力并具有风怒。,job:中立,type:随从,ablity:1
+cn_name:费尔根,cost:5,attack:4,rare:传说,hp:7,en_name:Feugen,description:亡语：如果斯塔拉格也在本局对战中死亡，召唤塔迪乌斯。,job:中立,type:随从,ablity:1
+cn_name:任务达人 ,cost:3,attack:2,rare:稀有,hp:2,en_name:Questing Adventurer,description:每当你使用一张牌时，便获得+1/+1。,job:中立,type:随从,ablity:
+cn_name:斯塔拉格,cost:5,attack:7,rare:传说,hp:4,en_name:Stalagg,description:亡语：如果费尔根也在本局对战中死亡，召唤塔迪乌斯。,job:中立,type:随从,ablity:1
+cn_name:艾露恩的女祭司,cost:6,attack:5,rare:普通,hp:4,en_name:Priestess of Elune,description:战吼：为你的英雄恢复4点生命值。,job:中立,type:随从,ablity:1
+cn_name:瑞文戴尔男爵,cost:4,attack:1,rare:传说,hp:7,en_name:Baron Rivendare,description:你的随从的亡语效果将触发两次。,job:中立,type:随从,ablity:
+cn_name:洛欧塞布,cost:5,attack:5,rare:传说,hp:5,en_name:Loatheb,description:战吼：下一回合敌方法术的法力值消耗增加（5）点。,job:中立,type:随从,ablity:1
+cn_name:疯狂投弹者,cost:2,attack:3,rare:普通,hp:2,en_name:Mad Bomber,description:战吼：造成3点伤害，随机由所有其他角色分摊。,job:中立,type:随从,ablity:1
+cn_name:迈克斯纳,cost:6,attack:2,rare:传说,hp:8,en_name:Maexxna,description:消灭任何受到该随从伤害的随从。,job:中立,type:随从,ablity:
+cn_name:战利品贮藏者,cost:2,attack:2,rare:普通,hp:1,en_name:Loot Hoarder,description:亡语：抽1张牌。,job:中立,type:随从,ablity:2
+cn_name:麻疯侏儒,cost:1,attack:2,rare:普通,hp:1,en_name:Leper Gnome,description:亡语：对敌方英雄造成2点伤害。,job:中立,type:随从,ablity:1
+cn_name:丛林猎豹,cost:3,attack:4,rare:普通,hp:2,en_name:Jungle Panther,description:潜行,job:中立,type:随从,ablity:1
+cn_name:铁喙猫头鹰,cost:2,attack:2,rare:普通,hp:1,en_name:Ironbeak Owl,description:战吼：沉默一个随从。,job:中立,type:随从,ablity:2
+cn_name:麦田傀儡,cost:3,attack:2,rare:普通,hp:3,en_name:Harvest Golem,description:亡语：召唤一个2/1的损坏的傀儡。,job:中立,type:随从,ablity:2
+cn_name:年轻的酒仙,cost:2,attack:3,rare:普通,hp:2,en_name:Youthful Brewmaster,description:战吼：使一个友方随从从战场上移回你的手牌。,job:中立,type:随从,ablity:1
+cn_name:风怒鹰身人,cost:6,attack:4,rare:普通,hp:5,en_name:Windfury Harpy,description:风怒,job:中立,type:随从,ablity:1
+cn_name:冰霜元素,cost:6,attack:5,rare:普通,hp:5,en_name:Frost Elemental,description:战吼：冻结一个角色。,job:中立,type:随从,ablity:2
+cn_name:风险投资公司雇佣兵,cost:5,attack:7,rare:普通,hp:6,en_name:Venture Co. Mercenary,description:你的随从牌的法力值消耗增加（3）点。,job:中立,type:随从,ablity:
+cn_name:沼泽爬行者,cost:5,attack:3,rare:普通,hp:6,en_name:Fen Creeper,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:萨尔玛先知,cost:3,attack:2,rare:普通,hp:3,en_name:Thrallmar Farseer,description:风怒,job:中立,type:随从,ablity:1
+cn_name:精灵龙,cost:2,attack:3,rare:普通,hp:2,en_name:Faerie Dragon,description:无法成为法术或者英雄技能的目标。,job:中立,type:随从,ablity:
+cn_name:牛头人战士,cost:3,attack:2,rare:普通,hp:3,en_name:Tauren Warrior,description:嘲讽，激怒：+3攻击力。,job:中立,type:随从,ablity:2
+cn_name:荆棘谷猛虎,cost:5,attack:5,rare:普通,hp:5,en_name:Stranglethorn Tiger,description:潜行,job:中立,type:随从,ablity:1
+cn_name:大地之环先知 ,cost:3,attack:3,rare:普通,hp:3,en_name:Earthen Ring Farseer,description:战吼：恢复3点生命值。,job:中立,type:随从,ablity:1
+cn_name:恐怖海盗,cost:4,attack:3,rare:普通,hp:3,en_name:Dread Corsair,description:嘲讽。消耗降低，降低数值相当于你的武器攻击。,job:中立,type:随从,ablity:1
+cn_name:恶毒铁匠,cost:5,attack:4,rare:普通,hp:6,en_name:Spiteful Smith,description:激怒：你的武器获得+2攻击力。,job:中立,type:随从,ablity:1
+cn_name:恐狼前锋,cost:2,attack:2,rare:普通,hp:2,en_name:Dire Wolf Alpha,description:相邻的随从获得+1攻击力。,job:中立,type:随从,ablity:
+cn_name:银月城卫兵,cost:4,attack:3,rare:普通,hp:3,en_name:Silvermoon Guardian,description:圣盾,job:中立,type:随从,ablity:1
+cn_name:黑铁矮人,cost:4,attack:4,rare:普通,hp:4,en_name:Dark Iron Dwarf,description:战吼：在本回合中，使一个随从获得 +2 攻击力。,job:中立,type:随从,ablity:1
+cn_name:白银之手骑士,cost:5,attack:4,rare:普通,hp:4,en_name:Silver Hand Knight,description:战吼：召唤一个2/2的侍从。,job:中立,type:随从,ablity:2
+cn_name:诅咒教派领袖 ,cost:4,attack:4,rare:普通,hp:2,en_name:Cult Master,description:每当你的其他随从死亡时，抽一张牌。,job:中立,type:随从,ablity:1
+cn_name:持盾卫士,cost:1,attack:0,rare:普通,hp:4,en_name:Shieldbearer,description:嘲讽,job:中立,type:随从,ablity:1
+cn_name:年迈的酒仙,cost:4,attack:5,rare:普通,hp:4,en_name:Ancient Brewmaster,description:战吼：使一个友方随从从战场上移回你的手牌。,job:中立,type:随从,ablity:1
+cn_name:血帆袭击者,cost:2,attack:2,rare:普通,hp:3,en_name:Bloodsail Raider,description:战吼：获得等同于你的武器攻击力的攻击力。,job:中立,type:随从,ablity:1
+cn_name:阿曼尼狂战士,cost:2,attack:2,rare:普通,hp:3,en_name:Amani Berserker,description:激怒：+3攻击力。,job:中立,type:随从,ablity:1
+cn_name:银色侍从,cost:1,attack:1,rare:普通,hp:1,en_name:Argent Squire,description:圣盾,job:中立,type:随从,ablity:1
+cn_name:苦痛侍僧,cost:3,attack:1,rare:普通,hp:3,en_name:Acolyte of Pain,description:每当该随从受到伤害时，抽一张牌。,job:中立,type:随从,ablity:1
+cn_name:奥术傀儡,cost:3,attack:4,rare:稀有,hp:2,en_name:Arcane Golem,description:冲锋，战吼：使你的对手获得一个法力水晶。,job:中立,type:随从,ablity:2
+cn_name:叫嚣的中士,cost:1,attack:2,rare:普通,hp:1,en_name:Abusive Sergeant,description:战吼：在本回合中，使一个随从获得 +2 攻击力。,job:中立,type:随从,ablity:1
+cn_name:年轻的女祭司,cost:1,attack:2,rare:稀有,hp:1,en_name:Young Priestess,description:在你的回合结束时，使另一个随机友方随从获得+1生命值。,job:中立,type:随从,ablity:
+cn_name:狂野炎术师 ,cost:2,attack:3,rare:稀有,hp:2,en_name:Wild Pyromancer,description:每当你施放一个法术时，对所有随从造成1点伤害。,job:中立,type:随从,ablity:
+cn_name:紫罗兰教师,cost:4,attack:3,rare:稀有,hp:5,en_name:Violet Teacher,description:每当你施放一个法术时，召唤一个1/1的紫罗兰学徒。,job:中立,type:随从,ablity:1
+cn_name:暮光幼龙,cost:4,attack:1,rare:稀有,hp:4,en_name:Twilight Drake,description:战吼：你的每张手牌都会令暮光幼龙获得1次+1/+1效果。,job:中立,type:随从,ablity:1
+cn_name:烈日行者 ,cost:6,attack:4,rare:稀有,hp:5,en_name:Sunwalker,description:嘲讽。圣盾。,job:中立,type:随从,ablity:2
+cn_name:日怒保卫者,cost:2,attack:2,rare:稀有,hp:3,en_name:Sunfury Protector,description:战吼：使邻近的随从获得嘲讽。,job:中立,type:随从,ablity:1
+cn_name:狂奔科多兽 ,cost:5,attack:3,rare:稀有,hp:5,en_name:Stampeding Kodo,description:战吼：随机消灭一个攻击力小于或等于2的敌方随从。,job:中立,type:随从,ablity:
+cn_name:奥秘守护者 ,cost:1,attack:1,rare:稀有,hp:2,en_name:Secretkeeper,description:每当有一张奥秘牌被揭示时，便获得+1/+1。,job:中立,type:随从,ablity:
+cn_name:拉文霍德刺客,cost:7,attack:7,rare:稀有,hp:5,en_name:Ravenholdt Assassin,description:潜行,job:中立,type:随从,ablity:1
+cn_name:小个子召唤师 ,cost:2,attack:2,rare:稀有,hp:2,en_name:Pint-Sized Summoner,description:你每个回合使用的第一张随从牌的法力值消耗减少（1）点。,job:中立,type:随从,ablity:
+cn_name:鱼人招潮者,cost:1,attack:1,rare:稀有,hp:2,en_name:Murloc Tidecaller,description:每当有玩家召唤一个鱼人时，便获得+1攻击力。,job:中立,type:随从,ablity:
+cn_name:精神控制技师,cost:3,attack:3,rare:稀有,hp:3,en_name:Mind Control Tech,description:战吼：如果你的对手拥有4个或者更多随从，随机控制其中一个。,job:中立,type:随从,ablity:1
+cn_name:铸剑师,cost:2,attack:1,rare:稀有,hp:3,en_name:Master Swordsmith,description:在你的回合结束时，随机使另一个友方随从获得+1攻击力。,job:中立,type:随从,ablity:
+cn_name:法力怨魂,cost:2,attack:2,rare:稀有,hp:2,en_name:Mana Wraith,description:召唤所有随从的法力值消耗增加（1）点。,job:中立,type:随从,ablity:
+cn_name:魔瘾者,cost:2,attack:1,rare:稀有,hp:3,en_name:Mana Addict,description:在本回合中，每当你施放一个法术，便获得+2攻击力。,job:中立,type:随从,ablity:
+cn_name:圣光护卫者,cost:1,attack:1,rare:稀有,hp:2,en_name:Lightwarden,description:每当一个角色获得治疗时，便获得+2攻击力。,job:中立,type:随从,ablity:
+cn_name:飞刀杂耍者 ,cost:2,attack:3,rare:稀有,hp:2,en_name:Knife Juggler,description:每当你召唤一个随从时，对一个随机敌方角色造成1点伤害。,job:中立,type:随从,ablity:
+cn_name:负伤剑圣 ,cost:3,attack:4,rare:稀有,hp:7,en_name:Injured Blademaster,description:战吼：对自身造成4点伤害。,job:中立,type:随从,ablity:1
+cn_name:小鬼召唤师 ,cost:3,attack:1,rare:稀有,hp:5,en_name:Imp Master,description:在你的回合结束时，对该随从造成1点伤害，并召唤一个1/1的小鬼。,job:中立,type:随从,ablity:1
+cn_name:加基森拍卖师,cost:6,attack:4,rare:稀有,hp:4,en_name:Gadgetzan Auctioneer,description:每当你施放一个法术时，抽一张牌。,job:中立,type:随从,ablity:1
+cn_name:腐肉食尸鬼 ,cost:3,attack:2,rare:普通,hp:3,en_name:Flesheating Ghoul,description:每当一个随从死亡时，获得+1攻击力。,job:中立,type:随从,ablity:
+cn_name:帝王眼镜蛇,cost:3,attack:2,rare:稀有,hp:3,en_name:Emperor Cobra,description:消灭任何受到该随从伤害的随从。,job:中立,type:随从,ablity:
+cn_name:攻城车,cost:3,attack:1,rare:稀有,hp:4,en_name:Demolisher,description:在你的回合开始时，对1个随机敌人造成2点伤害。,job:中立,type:随从,ablity:
+cn_name:阿古斯防御者,cost:4,attack:2,rare:稀有,hp:3,en_name:Defender of Argus,description:战吼：使相邻的随从获得+1/+1和嘲讽。,job:中立,type:随从,ablity:2
+cn_name:疯狂的炼金师 ,cost:2,attack:2,rare:稀有,hp:2,en_name:Crazed Alchemist,description:战吼：使一个随从的攻击力和生命值互换。,job:中立,type:随从,ablity:1
+cn_name:寒光先知,cost:3,attack:2,rare:稀有,hp:3,en_name:Coldlight Seer,description:战吼：使所有其他鱼人获得+2生命值。,job:中立,type:随从,ablity:1
+cn_name:寒光智者,cost:3,attack:2,rare:稀有,hp:2,en_name:Coldlight Oracle,description:战吼：每个玩家抽2张牌。,job:中立,type:随从,ablity:1
+cn_name:血帆海盗,cost:1,attack:1,rare:稀有,hp:2,en_name:Bloodsail Corsair,description:战吼：使对手的武器失去1点耐久度。,job:中立,type:随从,ablity:
+cn_name:碧蓝幼龙,cost:5,attack:4,rare:稀有,hp:4,en_name:Azure Drake,description:法术伤害+1，战吼：抽一张牌。,job:中立,type:随从,ablity:3
+cn_name:银色指挥官,cost:6,attack:4,rare:稀有,hp:2,en_name:Argent Commander,description:冲锋，圣盾。,job:中立,type:随从,ablity:2
+cn_name:愤怒的小鸡,cost:1,attack:1,rare:稀有,hp:1,en_name:Angry Chicken,description:激怒：+5攻击力。,job:中立,type:随从,ablity:1
+cn_name:上古看守者 ,cost:2,attack:4,rare:稀有,hp:5,en_name:Ancient Watcher,description:无法攻击。,job:中立,type:随从,ablity:
+cn_name:年迈的法师 ,cost:4,attack:2,rare:稀有,hp:5,en_name:Ancient Mage,description:战吼：使相邻的随从获得法术伤害+1。,job:中立,type:随从,ablity:2
+cn_name:报警机器人 ,cost:3,attack:0,rare:稀有,hp:3,en_name:Alarm-o-Bot,description:在你的回合开始时，随机将你的手牌中的一张随从牌与该随从交换。,job:中立,type:随从,ablity:
+cn_name:憎恶,cost:5,attack:4,rare:稀有,hp:4,en_name:Abomination,description:嘲讽，亡语：对所有角色造成2点伤害。,job:中立,type:随从,ablity:2
+cn_name:南海船长,cost:3,attack:3,rare:史诗,hp:3,en_name:Southsea Captain,description:你的其他海盗获得+1/+1。,job:中立,type:随从,ablity:
+cn_name:海巨人,cost:10,attack:8,rare:史诗,hp:8,en_name:Sea Giant,description:战场上每有一个其他随从，该牌的法力值消耗便减少（1）点。,job:中立,type:随从,ablity:
+cn_name:鱼人领军,cost:3,attack:3,rare:史诗,hp:3,en_name:Murloc Warleader,description:所有其他鱼人获得+2/+1。,job:中立,type:随从,ablity:
+cn_name:山岭巨人,cost:12,attack:8,rare:史诗,hp:8,en_name:Mountain Giant,description:你每有一张其他手牌，该牌的法力值消耗便减少（1）点。,job:中立,type:随从,ablity:
+cn_name:熔核巨人,cost:20,attack:8,rare:史诗,hp:8,en_name:Molten Giant,description:你的英雄每受到1点伤害，这张牌的法力值消耗便减少（1）点。,job:中立,type:随从,ablity:
+cn_name:鱼人杀手蟹 ,cost:1,attack:1,rare:史诗,hp:2,en_name:Hungry Crab,description:战吼：消灭一个鱼人，并获得+2/+2。,job:中立,type:随从,ablity:1
+cn_name:无面操纵者,cost:5,attack:3,rare:史诗,hp:3,en_name:Faceless Manipulator,description:战吼：选择一个随从，成为它的复制。,job:中立,type:随从,ablity:1
+cn_name:末日预言者 ,cost:2,attack:0,rare:史诗,hp:7,en_name:Doomsayer,description:在你的回合开始时，消灭所有随从。,job:中立,type:随从,ablity:
+cn_name:船长的鹦鹉,cost:2,attack:1,rare:史诗,hp:2,en_name:Captain's Parrot,description:战吼：随机从你的牌库中将一张海盗牌置入你的手牌。,job:中立,type:随从,ablity:1
+cn_name:血骑士,cost:3,attack:3,rare:史诗,hp:3,en_name:Blood Knight,description:战吼：所有随从失去圣盾。每有一个随从失去圣盾，便获得+3/+3。,job:中立,type:随从,ablity:1
+cn_name:王牌猎人 ,cost:3,attack:4,rare:史诗,hp:2,en_name:Big Game Hunter,description:战吼：消灭一个攻击力大于或等于7的随从。,job:中立,type:随从,ablity:1
+cn_name:伊瑟拉,cost:9,attack:4,rare:传说,hp:12,en_name:Ysera,description:在你的回合结束时，获得一张梦境牌。,job:中立,type:随从,ablity:
+cn_name:工匠大师欧沃斯巴克 ,cost:3,attack:2,rare:传说,hp:2,en_name:Tinkmaster Overspark,description:战吼：使另一个随机随从变形成为一个5/5的恐龙或一个1/1的松鼠。,job:中立,type:随从,ablity:1
+cn_name:黑骑士,cost:6,attack:4,rare:传说,hp:5,en_name:The Black Knight,description:战吼：消灭一个具有嘲讽的随从。,job:中立,type:随从,ablity:1
+cn_name:比斯巨兽,cost:6,attack:10,rare:传说,hp:6,en_name:The Beast,description:亡语：为你的对手召唤1个3/3的芬克·恩霍尔。,job:中立,type:随从,ablity:2
+cn_name:希尔瓦娜斯·风行者,cost:6,attack:5,rare:传说,hp:5,en_name:Sylvanas Windrunner,description:亡语：控制一个随机敌方随从。,job:中立,type:随从,ablity:1
+cn_name:精英牛头人酋长,cost:5,attack:5,rare:传说,hp:5,en_name:Elite Tauren Chieftain,description:战吼：让两位玩家都具有摇滚的能力！（双方各获得一张强力和弦牌）,job:中立,type:随从,ablity:1
+cn_name:炎魔之王拉格纳罗斯 ,cost:8,attack:8,rare:传说,hp:8,en_name:Ragnaros the Firelord,description:无法攻击，在你的回合结束时，对一个随机敌人造成8点伤害。,job:中立,type:随从,ablity:
+cn_name:奥妮克希亚,cost:9,attack:8,rare:传说,hp:8,en_name:Onyxia,description:战吼：召唤数个1/1的雏龙，直到你的随从数量达到上限。,job:中立,type:随从,ablity:2
+cn_name:老瞎眼,cost:4,attack:2,rare:传说,hp:4,en_name:Old Murk-Eye,description:冲锋，在战场上每有一个其他鱼人便获得+1攻击力。,job:中立,type:随从,ablity:
+cn_name:诺兹多姆,cost:9,attack:8,rare:传说,hp:8,en_name:Nozdormu,description:所有玩家只有15秒的时间来进行他们的回合。,job:中立,type:随从,ablity:
+cn_name:纳特·帕格,cost:2,attack:0,rare:传说,hp:4,en_name:Nat Pagle,description:在你的回合开始时，你有50%的几率额外抽一张牌。,job:中立,type:随从,ablity:1
+cn_name:米尔豪斯·法力风暴,cost:2,attack:4,rare:传说,hp:4,en_name:Millhouse Manastorm,description:战吼：下个回合敌方法术的法力值消耗为（0）点。,job:中立,type:随从,ablity:1
+cn_name:玛里苟斯,cost:9,attack:4,rare:传说,hp:12,en_name:Malygos,description:法术伤害+5,job:中立,type:随从,ablity:
+cn_name:游学者周卓,cost:2,attack:0,rare:传说,hp:4,en_name:Lorewalker Cho,description:每当一个玩家施放一个法术时，复制该法术，将其置入另一个玩家的手牌。,job:中立,type:随从,ablity:
+cn_name:血法师萨尔诺斯,cost:2,attack:1,rare:传说,hp:1,en_name:Bloodmage Thalnos,description:法术伤害+1，亡语：抽一张牌。,job:中立,type:随从,ablity:3
+cn_name:穆克拉,cost:3,attack:5,rare:传说,hp:5,en_name:King Mukla,description:战吼：使你的对手获得2个香蕉。,job:中立,type:随从,ablity:1
+cn_name:火车王里诺艾 ,cost:5,attack:6,rare:传说,hp:2,en_name:Leeroy Jenkins,description:冲锋，战吼：为你的对手召唤2只1/1的雏龙。,job:中立,type:随从,ablity:3
+cn_name:哈里森·琼斯,cost:5,attack:5,rare:传说,hp:4,en_name:Harrison Jones,description:战吼：摧毁对手的武器，并抽数量等同于其耐久度的牌。,job:中立,type:随从,ablity:1
+cn_name:绿皮船长,cost:5,attack:5,rare:传说,hp:5,en_name:Captain Greenskin,description:战吼：使你的武器获得+1/+1。,job:中立,type:随从,ablity:1
+cn_name:伊利丹·怒风,cost:6,attack:7,rare:传说,hp:5,en_name:Illidan Stormrage,description:每当你使用一张牌时，召唤一个2/1的埃辛诺斯烈焰。,job:中立,type:随从,ablity:1
+cn_name:霍格,cost:6,attack:4,rare:传说,hp:4,en_name:Hogger,description:在你的回合结束时，召唤一个2/2并具有嘲讽的豺狼人。,job:中立,type:随从,ablity:1
+cn_name:格尔宾·梅卡托克 ,cost:6,attack:6,rare:传说,hp:6,en_name:Gelbin Mekkatorque,description:战吼：进行一次惊人的发明。,job:中立,type:随从,ablity:
+cn_name:凯恩·血蹄,cost:6,attack:4,rare:传说,hp:5,en_name:Cairne Bloodhoof,description:亡语：召唤一个4/5的贝恩·血蹄。,job:中立,type:随从,ablity:2
+cn_name:迦顿男爵,cost:7,attack:7,rare:传说,hp:5,en_name:Baron Geddon,description:在你的回合结束时，对所有其他角色造成2点伤害。,job:中立,type:随从,ablity:
+cn_name:格鲁尔,cost:8,attack:7,rare:传说,hp:7,en_name:Gruul,description:在每个回合结束时，获得+1/+1。,job:中立,type:随从,ablity:
+cn_name:阿莱克丝塔萨,cost:9,attack:8,rare:传说,hp:8,en_name:Alexstrasza,description:战吼：使一个英雄的剩余生命值成为15。,job:中立,type:随从,ablity:1
+cn_name:死亡之翼,cost:10,attack:12,rare:传说,hp:12,en_name:Deathwing,description:战吼：消灭所有其他随从，并弃掉你的手牌。,job:中立,type:随从,ablity:1
