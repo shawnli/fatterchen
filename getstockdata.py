@@ -3,7 +3,7 @@
 #source http://www.cnblogs.com/txw1958/
 
 import os, io, sys, re, time, json, base64
-import webbrowser, urllib
+import webbrowser, urllib.request
 
 
 period_All_List = [
@@ -50,10 +50,12 @@ def getChinaStockIndexInfo(stockCode, period):
         exchange = "sz" if (int(stockCode) // 100000 == 3) else "sh"
         #http://hq.sinajs.cn/list=s_sh000001
         dataUrl = "http://hq.sinajs.cn/list=s_" + exchange + stockCode
-        ##stdout = urllib.request.urlopen(dataUrl)
-        stdout = urllib.urlopen(dataUrl)
+        stdout = urllib.request.urlopen(dataUrl)
+        ##stdout = urllib.urlopen(dataUrl)
         stdoutInfo = stdout.read().decode('gb2312')
+        print("222222222222"+stdoutInfo)
         tempData = re.search('''(")(.+)(")''', stdoutInfo).group(2)
+        print("3333333333333"+tempData)
         stockInfo = tempData.split(",")
         #stockCode = stockCode,
         stockName   = stockInfo[0]
@@ -84,11 +86,11 @@ def getChinaStockIndividualInfo(stockCode, period):
     try:
         exchange = "sh" if (int(stockCode) // 100000 == 6) else "sz"
         dataUrl = "http://hq.sinajs.cn/list=" + exchange + stockCode
-        ##stdout = urllib.request.urlopen(dataUrl)
-        stdout = urllib.urlopen(dataUrl)
-        print "hahhaha"
+        stdout = urllib.request.urlopen(dataUrl)
+        ##stdout = urllib.urlopen(dataUrl)
+        
         stdoutInfo = stdout.read().decode('gb2312')
-        print "~~~~~~~~~"
+        
         tempData = re.search('''(")(.+)(")''', stdoutInfo).group(2)
         stockInfo = tempData.split(",")
         #stockCode = stockCode,
@@ -128,8 +130,8 @@ def getWorldStockIndexInfo(stockDict):
         yahooCode = stockDict['yahoo']
         dataUrl = "http://download.finance.yahoo.com/d/quotes.csv?s=" + yahooCode + "&f=sl1c1p2l"
 
-        ##stdout = urllib.request.urlopen(dataUrl)
-        stdout = urllib.urlopen(dataUrl)
+        stdout = urllib.request.urlopen(dataUrl)
+        ##stdout = urllib.urlopen(dataUrl)
         stdoutInfo = stdout.read().decode('gb2312')
         tempData = stdoutInfo.replace('"', '')
         stockInfo = tempData.split(",")
@@ -160,7 +162,7 @@ def getWorldStockIndexInfo(stockDict):
 def test_china_index_data():
     for stockCode in ChinaStockIndexList:
         twitter = getChinaStockIndexInfo(stockCode, period_daily)
-        print twitter
+         
         ##print(twitter['message'] + twitter['image'])
 
 def test_china_individual_data():

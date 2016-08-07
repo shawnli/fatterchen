@@ -102,7 +102,7 @@ def gen_random_data():
 
 def get_stacks():
     statcks = []
-    if monster_datas < 15:
+    if len(monster_datas) < 15:
         raise Exception("monster type nums < 15.")
     while (len(statcks) < 30):
         choice = random.choice(monster_datas)
@@ -114,7 +114,7 @@ def get_stacks():
 
 def get_face_stacks():
     statcks = []
-    if monster_datas < 15:
+    if len(monster_datas) < 15:
         raise Exception("monster type nums < 15.")
     while (len(statcks) < 30):
         choice = random.choice(monster_datas)
@@ -158,6 +158,6 @@ def play_game(choice1, choice2):
 
                     break
                 players.reverse()
-        print results
+        print(results)
         choice1.update_weights()
         choice2.update_weights()

@@ -5,6 +5,6 @@ Monster = recordclass('Monster', ['monster_data', 'name', 'hp', 'status', 'attac
 Player = recordclass('Player', ['name', 'monsters', 'hp', 'status', 'crystal', 'remained_crystal', 'hand_card', 'stacks', 'oom_turn', 'choice'])#定义玩家类
 MonsterData = recordclass('MonsterData', ['name', 'cost', 'attack', 'hp', 'bc_funs'])
 
-logging.config.fileConfig('logger.conf')
+##logging.config.fileConfig('logger.conf')
 logger = logging.getLogger()
 logger.setLevel("ERROR")#大约是配置错误的意思吧
