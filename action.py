@@ -5,7 +5,7 @@ from base import Monster, Player, logger
 
 def bc_fun(monster, user, enemy):
     pass
-def charge(monster, user, enemy):
+def charge(monster, user, enemy):#上随从，默认随从不能进行攻击
     monster.attacked = False
     return monster, user, enemy
 
